@@ -1,0 +1,4799 @@
+1
+00:00:00,000 --> 00:00:04,600
+QA EN #0001 - 00:00:00
+English test cue (UTF-8, no BOM)
+
+2
+00:00:05,000 --> 00:00:09,600
+QA EN #0002 - 00:00:05
+English test cue (UTF-8, no BOM)
+
+3
+00:00:10,000 --> 00:00:14,600
+QA EN #0003 - 00:00:10
+English test cue (UTF-8, no BOM)
+
+4
+00:00:15,000 --> 00:00:19,600
+QA EN #0004 - 00:00:15
+English test cue (UTF-8, no BOM)
+
+5
+00:00:20,000 --> 00:00:24,600
+QA EN #0005 - 00:00:20
+English test cue (UTF-8, no BOM)
+
+6
+00:00:25,000 --> 00:00:29,600
+QA EN #0006 - 00:00:25
+English test cue (UTF-8, no BOM)
+
+7
+00:00:30,000 --> 00:00:34,600
+QA EN #0007 - 00:00:30
+English test cue (UTF-8, no BOM)
+
+8
+00:00:35,000 --> 00:00:39,600
+QA EN #0008 - 00:00:35
+English test cue (UTF-8, no BOM)
+
+9
+00:00:40,000 --> 00:00:44,600
+QA EN #0009 - 00:00:40
+English test cue (UTF-8, no BOM)
+
+10
+00:00:45,000 --> 00:00:49,600
+QA EN #0010 - 00:00:45
+English test cue (UTF-8, no BOM)
+
+11
+00:00:50,000 --> 00:00:54,600
+QA EN #0011 - 00:00:50
+English test cue (UTF-8, no BOM)
+
+12
+00:00:55,000 --> 00:00:59,600
+QA EN #0012 - 00:00:55
+English test cue (UTF-8, no BOM)
+
+13
+00:01:00,000 --> 00:01:04,600
+QA EN #0013 - 00:01:00
+English test cue (UTF-8, no BOM)
+
+14
+00:01:05,000 --> 00:01:09,600
+QA EN #0014 - 00:01:05
+English test cue (UTF-8, no BOM)
+
+15
+00:01:10,000 --> 00:01:14,600
+QA EN #0015 - 00:01:10
+English test cue (UTF-8, no BOM)
+
+16
+00:01:15,000 --> 00:01:19,600
+QA EN #0016 - 00:01:15
+English test cue (UTF-8, no BOM)
+
+17
+00:01:20,000 --> 00:01:24,600
+QA EN #0017 - 00:01:20
+English test cue (UTF-8, no BOM)
+
+18
+00:01:25,000 --> 00:01:29,600
+QA EN #0018 - 00:01:25
+English test cue (UTF-8, no BOM)
+
+19
+00:01:30,000 --> 00:01:34,600
+QA EN #0019 - 00:01:30
+English test cue (UTF-8, no BOM)
+
+20
+00:01:35,000 --> 00:01:39,600
+QA EN #0020 - 00:01:35
+English test cue (UTF-8, no BOM)
+
+21
+00:01:40,000 --> 00:01:44,600
+QA EN #0021 - 00:01:40
+English test cue (UTF-8, no BOM)
+
+22
+00:01:45,000 --> 00:01:49,600
+QA EN #0022 - 00:01:45
+English test cue (UTF-8, no BOM)
+
+23
+00:01:50,000 --> 00:01:54,600
+QA EN #0023 - 00:01:50
+English test cue (UTF-8, no BOM)
+
+24
+00:01:55,000 --> 00:01:59,600
+QA EN #0024 - 00:01:55
+English test cue (UTF-8, no BOM)
+
+25
+00:02:00,000 --> 00:02:04,600
+QA EN #0025 - 00:02:00
+English test cue (UTF-8, no BOM)
+
+26
+00:02:05,000 --> 00:02:09,600
+QA EN #0026 - 00:02:05
+English test cue (UTF-8, no BOM)
+
+27
+00:02:10,000 --> 00:02:14,600
+QA EN #0027 - 00:02:10
+English test cue (UTF-8, no BOM)
+
+28
+00:02:15,000 --> 00:02:19,600
+QA EN #0028 - 00:02:15
+English test cue (UTF-8, no BOM)
+
+29
+00:02:20,000 --> 00:02:24,600
+QA EN #0029 - 00:02:20
+English test cue (UTF-8, no BOM)
+
+30
+00:02:25,000 --> 00:02:29,600
+QA EN #0030 - 00:02:25
+English test cue (UTF-8, no BOM)
+
+31
+00:02:30,000 --> 00:02:34,600
+QA EN #0031 - 00:02:30
+English test cue (UTF-8, no BOM)
+
+32
+00:02:35,000 --> 00:02:39,600
+QA EN #0032 - 00:02:35
+English test cue (UTF-8, no BOM)
+
+33
+00:02:40,000 --> 00:02:44,600
+QA EN #0033 - 00:02:40
+English test cue (UTF-8, no BOM)
+
+34
+00:02:45,000 --> 00:02:49,600
+QA EN #0034 - 00:02:45
+English test cue (UTF-8, no BOM)
+
+35
+00:02:50,000 --> 00:02:54,600
+QA EN #0035 - 00:02:50
+English test cue (UTF-8, no BOM)
+
+36
+00:02:55,000 --> 00:02:59,600
+QA EN #0036 - 00:02:55
+English test cue (UTF-8, no BOM)
+
+37
+00:03:00,000 --> 00:03:04,600
+QA EN #0037 - 00:03:00
+English test cue (UTF-8, no BOM)
+
+38
+00:03:05,000 --> 00:03:09,600
+QA EN #0038 - 00:03:05
+English test cue (UTF-8, no BOM)
+
+39
+00:03:10,000 --> 00:03:14,600
+QA EN #0039 - 00:03:10
+English test cue (UTF-8, no BOM)
+
+40
+00:03:15,000 --> 00:03:19,600
+QA EN #0040 - 00:03:15
+English test cue (UTF-8, no BOM)
+
+41
+00:03:20,000 --> 00:03:24,600
+QA EN #0041 - 00:03:20
+English test cue (UTF-8, no BOM)
+
+42
+00:03:25,000 --> 00:03:29,600
+QA EN #0042 - 00:03:25
+English test cue (UTF-8, no BOM)
+
+43
+00:03:30,000 --> 00:03:34,600
+QA EN #0043 - 00:03:30
+English test cue (UTF-8, no BOM)
+
+44
+00:03:35,000 --> 00:03:39,600
+QA EN #0044 - 00:03:35
+English test cue (UTF-8, no BOM)
+
+45
+00:03:40,000 --> 00:03:44,600
+QA EN #0045 - 00:03:40
+English test cue (UTF-8, no BOM)
+
+46
+00:03:45,000 --> 00:03:49,600
+QA EN #0046 - 00:03:45
+English test cue (UTF-8, no BOM)
+
+47
+00:03:50,000 --> 00:03:54,600
+QA EN #0047 - 00:03:50
+English test cue (UTF-8, no BOM)
+
+48
+00:03:55,000 --> 00:03:59,600
+QA EN #0048 - 00:03:55
+English test cue (UTF-8, no BOM)
+
+49
+00:04:00,000 --> 00:04:04,600
+QA EN #0049 - 00:04:00
+English test cue (UTF-8, no BOM)
+
+50
+00:04:05,000 --> 00:04:09,600
+QA EN #0050 - 00:04:05
+English test cue (UTF-8, no BOM)
+
+51
+00:04:10,000 --> 00:04:14,600
+QA EN #0051 - 00:04:10
+English test cue (UTF-8, no BOM)
+
+52
+00:04:15,000 --> 00:04:19,600
+QA EN #0052 - 00:04:15
+English test cue (UTF-8, no BOM)
+
+53
+00:04:20,000 --> 00:04:24,600
+QA EN #0053 - 00:04:20
+English test cue (UTF-8, no BOM)
+
+54
+00:04:25,000 --> 00:04:29,600
+QA EN #0054 - 00:04:25
+English test cue (UTF-8, no BOM)
+
+55
+00:04:30,000 --> 00:04:34,600
+QA EN #0055 - 00:04:30
+English test cue (UTF-8, no BOM)
+
+56
+00:04:35,000 --> 00:04:39,600
+QA EN #0056 - 00:04:35
+English test cue (UTF-8, no BOM)
+
+57
+00:04:40,000 --> 00:04:44,600
+QA EN #0057 - 00:04:40
+English test cue (UTF-8, no BOM)
+
+58
+00:04:45,000 --> 00:04:49,600
+QA EN #0058 - 00:04:45
+English test cue (UTF-8, no BOM)
+
+59
+00:04:50,000 --> 00:04:54,600
+QA EN #0059 - 00:04:50
+English test cue (UTF-8, no BOM)
+
+60
+00:04:55,000 --> 00:04:59,600
+QA EN #0060 - 00:04:55
+English test cue (UTF-8, no BOM)
+
+61
+00:05:00,000 --> 00:05:04,600
+QA EN #0061 - 00:05:00
+English test cue (UTF-8, no BOM)
+
+62
+00:05:05,000 --> 00:05:09,600
+QA EN #0062 - 00:05:05
+English test cue (UTF-8, no BOM)
+
+63
+00:05:10,000 --> 00:05:14,600
+QA EN #0063 - 00:05:10
+English test cue (UTF-8, no BOM)
+
+64
+00:05:15,000 --> 00:05:19,600
+QA EN #0064 - 00:05:15
+English test cue (UTF-8, no BOM)
+
+65
+00:05:20,000 --> 00:05:24,600
+QA EN #0065 - 00:05:20
+English test cue (UTF-8, no BOM)
+
+66
+00:05:25,000 --> 00:05:29,600
+QA EN #0066 - 00:05:25
+English test cue (UTF-8, no BOM)
+
+67
+00:05:30,000 --> 00:05:34,600
+QA EN #0067 - 00:05:30
+English test cue (UTF-8, no BOM)
+
+68
+00:05:35,000 --> 00:05:39,600
+QA EN #0068 - 00:05:35
+English test cue (UTF-8, no BOM)
+
+69
+00:05:40,000 --> 00:05:44,600
+QA EN #0069 - 00:05:40
+English test cue (UTF-8, no BOM)
+
+70
+00:05:45,000 --> 00:05:49,600
+QA EN #0070 - 00:05:45
+English test cue (UTF-8, no BOM)
+
+71
+00:05:50,000 --> 00:05:54,600
+QA EN #0071 - 00:05:50
+English test cue (UTF-8, no BOM)
+
+72
+00:05:55,000 --> 00:05:59,600
+QA EN #0072 - 00:05:55
+English test cue (UTF-8, no BOM)
+
+73
+00:06:00,000 --> 00:06:04,600
+QA EN #0073 - 00:06:00
+English test cue (UTF-8, no BOM)
+
+74
+00:06:05,000 --> 00:06:09,600
+QA EN #0074 - 00:06:05
+English test cue (UTF-8, no BOM)
+
+75
+00:06:10,000 --> 00:06:14,600
+QA EN #0075 - 00:06:10
+English test cue (UTF-8, no BOM)
+
+76
+00:06:15,000 --> 00:06:19,600
+QA EN #0076 - 00:06:15
+English test cue (UTF-8, no BOM)
+
+77
+00:06:20,000 --> 00:06:24,600
+QA EN #0077 - 00:06:20
+English test cue (UTF-8, no BOM)
+
+78
+00:06:25,000 --> 00:06:29,600
+QA EN #0078 - 00:06:25
+English test cue (UTF-8, no BOM)
+
+79
+00:06:30,000 --> 00:06:34,600
+QA EN #0079 - 00:06:30
+English test cue (UTF-8, no BOM)
+
+80
+00:06:35,000 --> 00:06:39,600
+QA EN #0080 - 00:06:35
+English test cue (UTF-8, no BOM)
+
+81
+00:06:40,000 --> 00:06:44,600
+QA EN #0081 - 00:06:40
+English test cue (UTF-8, no BOM)
+
+82
+00:06:45,000 --> 00:06:49,600
+QA EN #0082 - 00:06:45
+English test cue (UTF-8, no BOM)
+
+83
+00:06:50,000 --> 00:06:54,600
+QA EN #0083 - 00:06:50
+English test cue (UTF-8, no BOM)
+
+84
+00:06:55,000 --> 00:06:59,600
+QA EN #0084 - 00:06:55
+English test cue (UTF-8, no BOM)
+
+85
+00:07:00,000 --> 00:07:04,600
+QA EN #0085 - 00:07:00
+English test cue (UTF-8, no BOM)
+
+86
+00:07:05,000 --> 00:07:09,600
+QA EN #0086 - 00:07:05
+English test cue (UTF-8, no BOM)
+
+87
+00:07:10,000 --> 00:07:14,600
+QA EN #0087 - 00:07:10
+English test cue (UTF-8, no BOM)
+
+88
+00:07:15,000 --> 00:07:19,600
+QA EN #0088 - 00:07:15
+English test cue (UTF-8, no BOM)
+
+89
+00:07:20,000 --> 00:07:24,600
+QA EN #0089 - 00:07:20
+English test cue (UTF-8, no BOM)
+
+90
+00:07:25,000 --> 00:07:29,600
+QA EN #0090 - 00:07:25
+English test cue (UTF-8, no BOM)
+
+91
+00:07:30,000 --> 00:07:34,600
+QA EN #0091 - 00:07:30
+English test cue (UTF-8, no BOM)
+
+92
+00:07:35,000 --> 00:07:39,600
+QA EN #0092 - 00:07:35
+English test cue (UTF-8, no BOM)
+
+93
+00:07:40,000 --> 00:07:44,600
+QA EN #0093 - 00:07:40
+English test cue (UTF-8, no BOM)
+
+94
+00:07:45,000 --> 00:07:49,600
+QA EN #0094 - 00:07:45
+English test cue (UTF-8, no BOM)
+
+95
+00:07:50,000 --> 00:07:54,600
+QA EN #0095 - 00:07:50
+English test cue (UTF-8, no BOM)
+
+96
+00:07:55,000 --> 00:07:59,600
+QA EN #0096 - 00:07:55
+English test cue (UTF-8, no BOM)
+
+97
+00:08:00,000 --> 00:08:04,600
+QA EN #0097 - 00:08:00
+English test cue (UTF-8, no BOM)
+
+98
+00:08:05,000 --> 00:08:09,600
+QA EN #0098 - 00:08:05
+English test cue (UTF-8, no BOM)
+
+99
+00:08:10,000 --> 00:08:14,600
+QA EN #0099 - 00:08:10
+English test cue (UTF-8, no BOM)
+
+100
+00:08:15,000 --> 00:08:19,600
+QA EN #0100 - 00:08:15
+English test cue (UTF-8, no BOM)
+
+101
+00:08:20,000 --> 00:08:24,600
+QA EN #0101 - 00:08:20
+English test cue (UTF-8, no BOM)
+
+102
+00:08:25,000 --> 00:08:29,600
+QA EN #0102 - 00:08:25
+English test cue (UTF-8, no BOM)
+
+103
+00:08:30,000 --> 00:08:34,600
+QA EN #0103 - 00:08:30
+English test cue (UTF-8, no BOM)
+
+104
+00:08:35,000 --> 00:08:39,600
+QA EN #0104 - 00:08:35
+English test cue (UTF-8, no BOM)
+
+105
+00:08:40,000 --> 00:08:44,600
+QA EN #0105 - 00:08:40
+English test cue (UTF-8, no BOM)
+
+106
+00:08:45,000 --> 00:08:49,600
+QA EN #0106 - 00:08:45
+English test cue (UTF-8, no BOM)
+
+107
+00:08:50,000 --> 00:08:54,600
+QA EN #0107 - 00:08:50
+English test cue (UTF-8, no BOM)
+
+108
+00:08:55,000 --> 00:08:59,600
+QA EN #0108 - 00:08:55
+English test cue (UTF-8, no BOM)
+
+109
+00:09:00,000 --> 00:09:04,600
+QA EN #0109 - 00:09:00
+English test cue (UTF-8, no BOM)
+
+110
+00:09:05,000 --> 00:09:09,600
+QA EN #0110 - 00:09:05
+English test cue (UTF-8, no BOM)
+
+111
+00:09:10,000 --> 00:09:14,600
+QA EN #0111 - 00:09:10
+English test cue (UTF-8, no BOM)
+
+112
+00:09:15,000 --> 00:09:19,600
+QA EN #0112 - 00:09:15
+English test cue (UTF-8, no BOM)
+
+113
+00:09:20,000 --> 00:09:24,600
+QA EN #0113 - 00:09:20
+English test cue (UTF-8, no BOM)
+
+114
+00:09:25,000 --> 00:09:29,600
+QA EN #0114 - 00:09:25
+English test cue (UTF-8, no BOM)
+
+115
+00:09:30,000 --> 00:09:34,600
+QA EN #0115 - 00:09:30
+English test cue (UTF-8, no BOM)
+
+116
+00:09:35,000 --> 00:09:39,600
+QA EN #0116 - 00:09:35
+English test cue (UTF-8, no BOM)
+
+117
+00:09:40,000 --> 00:09:44,600
+QA EN #0117 - 00:09:40
+English test cue (UTF-8, no BOM)
+
+118
+00:09:45,000 --> 00:09:49,600
+QA EN #0118 - 00:09:45
+English test cue (UTF-8, no BOM)
+
+119
+00:09:50,000 --> 00:09:54,600
+QA EN #0119 - 00:09:50
+English test cue (UTF-8, no BOM)
+
+120
+00:09:55,000 --> 00:09:59,600
+QA EN #0120 - 00:09:55
+English test cue (UTF-8, no BOM)
+
+121
+00:10:00,000 --> 00:10:04,600
+QA EN #0121 - 00:10:00
+English test cue (UTF-8, no BOM)
+
+122
+00:10:05,000 --> 00:10:09,600
+QA EN #0122 - 00:10:05
+English test cue (UTF-8, no BOM)
+
+123
+00:10:10,000 --> 00:10:14,600
+QA EN #0123 - 00:10:10
+English test cue (UTF-8, no BOM)
+
+124
+00:10:15,000 --> 00:10:19,600
+QA EN #0124 - 00:10:15
+English test cue (UTF-8, no BOM)
+
+125
+00:10:20,000 --> 00:10:24,600
+QA EN #0125 - 00:10:20
+English test cue (UTF-8, no BOM)
+
+126
+00:10:25,000 --> 00:10:29,600
+QA EN #0126 - 00:10:25
+English test cue (UTF-8, no BOM)
+
+127
+00:10:30,000 --> 00:10:34,600
+QA EN #0127 - 00:10:30
+English test cue (UTF-8, no BOM)
+
+128
+00:10:35,000 --> 00:10:39,600
+QA EN #0128 - 00:10:35
+English test cue (UTF-8, no BOM)
+
+129
+00:10:40,000 --> 00:10:44,600
+QA EN #0129 - 00:10:40
+English test cue (UTF-8, no BOM)
+
+130
+00:10:45,000 --> 00:10:49,600
+QA EN #0130 - 00:10:45
+English test cue (UTF-8, no BOM)
+
+131
+00:10:50,000 --> 00:10:54,600
+QA EN #0131 - 00:10:50
+English test cue (UTF-8, no BOM)
+
+132
+00:10:55,000 --> 00:10:59,600
+QA EN #0132 - 00:10:55
+English test cue (UTF-8, no BOM)
+
+133
+00:11:00,000 --> 00:11:04,600
+QA EN #0133 - 00:11:00
+English test cue (UTF-8, no BOM)
+
+134
+00:11:05,000 --> 00:11:09,600
+QA EN #0134 - 00:11:05
+English test cue (UTF-8, no BOM)
+
+135
+00:11:10,000 --> 00:11:14,600
+QA EN #0135 - 00:11:10
+English test cue (UTF-8, no BOM)
+
+136
+00:11:15,000 --> 00:11:19,600
+QA EN #0136 - 00:11:15
+English test cue (UTF-8, no BOM)
+
+137
+00:11:20,000 --> 00:11:24,600
+QA EN #0137 - 00:11:20
+English test cue (UTF-8, no BOM)
+
+138
+00:11:25,000 --> 00:11:29,600
+QA EN #0138 - 00:11:25
+English test cue (UTF-8, no BOM)
+
+139
+00:11:30,000 --> 00:11:34,600
+QA EN #0139 - 00:11:30
+English test cue (UTF-8, no BOM)
+
+140
+00:11:35,000 --> 00:11:39,600
+QA EN #0140 - 00:11:35
+English test cue (UTF-8, no BOM)
+
+141
+00:11:40,000 --> 00:11:44,600
+QA EN #0141 - 00:11:40
+English test cue (UTF-8, no BOM)
+
+142
+00:11:45,000 --> 00:11:49,600
+QA EN #0142 - 00:11:45
+English test cue (UTF-8, no BOM)
+
+143
+00:11:50,000 --> 00:11:54,600
+QA EN #0143 - 00:11:50
+English test cue (UTF-8, no BOM)
+
+144
+00:11:55,000 --> 00:11:59,600
+QA EN #0144 - 00:11:55
+English test cue (UTF-8, no BOM)
+
+145
+00:12:00,000 --> 00:12:04,600
+QA EN #0145 - 00:12:00
+English test cue (UTF-8, no BOM)
+
+146
+00:12:05,000 --> 00:12:09,600
+QA EN #0146 - 00:12:05
+English test cue (UTF-8, no BOM)
+
+147
+00:12:10,000 --> 00:12:14,600
+QA EN #0147 - 00:12:10
+English test cue (UTF-8, no BOM)
+
+148
+00:12:15,000 --> 00:12:19,600
+QA EN #0148 - 00:12:15
+English test cue (UTF-8, no BOM)
+
+149
+00:12:20,000 --> 00:12:24,600
+QA EN #0149 - 00:12:20
+English test cue (UTF-8, no BOM)
+
+150
+00:12:25,000 --> 00:12:29,600
+QA EN #0150 - 00:12:25
+English test cue (UTF-8, no BOM)
+
+151
+00:12:30,000 --> 00:12:34,600
+QA EN #0151 - 00:12:30
+English test cue (UTF-8, no BOM)
+
+152
+00:12:35,000 --> 00:12:39,600
+QA EN #0152 - 00:12:35
+English test cue (UTF-8, no BOM)
+
+153
+00:12:40,000 --> 00:12:44,600
+QA EN #0153 - 00:12:40
+English test cue (UTF-8, no BOM)
+
+154
+00:12:45,000 --> 00:12:49,600
+QA EN #0154 - 00:12:45
+English test cue (UTF-8, no BOM)
+
+155
+00:12:50,000 --> 00:12:54,600
+QA EN #0155 - 00:12:50
+English test cue (UTF-8, no BOM)
+
+156
+00:12:55,000 --> 00:12:59,600
+QA EN #0156 - 00:12:55
+English test cue (UTF-8, no BOM)
+
+157
+00:13:00,000 --> 00:13:04,600
+QA EN #0157 - 00:13:00
+English test cue (UTF-8, no BOM)
+
+158
+00:13:05,000 --> 00:13:09,600
+QA EN #0158 - 00:13:05
+English test cue (UTF-8, no BOM)
+
+159
+00:13:10,000 --> 00:13:14,600
+QA EN #0159 - 00:13:10
+English test cue (UTF-8, no BOM)
+
+160
+00:13:15,000 --> 00:13:19,600
+QA EN #0160 - 00:13:15
+English test cue (UTF-8, no BOM)
+
+161
+00:13:20,000 --> 00:13:24,600
+QA EN #0161 - 00:13:20
+English test cue (UTF-8, no BOM)
+
+162
+00:13:25,000 --> 00:13:29,600
+QA EN #0162 - 00:13:25
+English test cue (UTF-8, no BOM)
+
+163
+00:13:30,000 --> 00:13:34,600
+QA EN #0163 - 00:13:30
+English test cue (UTF-8, no BOM)
+
+164
+00:13:35,000 --> 00:13:39,600
+QA EN #0164 - 00:13:35
+English test cue (UTF-8, no BOM)
+
+165
+00:13:40,000 --> 00:13:44,600
+QA EN #0165 - 00:13:40
+English test cue (UTF-8, no BOM)
+
+166
+00:13:45,000 --> 00:13:49,600
+QA EN #0166 - 00:13:45
+English test cue (UTF-8, no BOM)
+
+167
+00:13:50,000 --> 00:13:54,600
+QA EN #0167 - 00:13:50
+English test cue (UTF-8, no BOM)
+
+168
+00:13:55,000 --> 00:13:59,600
+QA EN #0168 - 00:13:55
+English test cue (UTF-8, no BOM)
+
+169
+00:14:00,000 --> 00:14:04,600
+QA EN #0169 - 00:14:00
+English test cue (UTF-8, no BOM)
+
+170
+00:14:05,000 --> 00:14:09,600
+QA EN #0170 - 00:14:05
+English test cue (UTF-8, no BOM)
+
+171
+00:14:10,000 --> 00:14:14,600
+QA EN #0171 - 00:14:10
+English test cue (UTF-8, no BOM)
+
+172
+00:14:15,000 --> 00:14:19,600
+QA EN #0172 - 00:14:15
+English test cue (UTF-8, no BOM)
+
+173
+00:14:20,000 --> 00:14:24,600
+QA EN #0173 - 00:14:20
+English test cue (UTF-8, no BOM)
+
+174
+00:14:25,000 --> 00:14:29,600
+QA EN #0174 - 00:14:25
+English test cue (UTF-8, no BOM)
+
+175
+00:14:30,000 --> 00:14:34,600
+QA EN #0175 - 00:14:30
+English test cue (UTF-8, no BOM)
+
+176
+00:14:35,000 --> 00:14:39,600
+QA EN #0176 - 00:14:35
+English test cue (UTF-8, no BOM)
+
+177
+00:14:40,000 --> 00:14:44,600
+QA EN #0177 - 00:14:40
+English test cue (UTF-8, no BOM)
+
+178
+00:14:45,000 --> 00:14:49,600
+QA EN #0178 - 00:14:45
+English test cue (UTF-8, no BOM)
+
+179
+00:14:50,000 --> 00:14:54,600
+QA EN #0179 - 00:14:50
+English test cue (UTF-8, no BOM)
+
+180
+00:14:55,000 --> 00:14:59,600
+QA EN #0180 - 00:14:55
+English test cue (UTF-8, no BOM)
+
+181
+00:15:00,000 --> 00:15:04,600
+QA EN #0181 - 00:15:00
+English test cue (UTF-8, no BOM)
+
+182
+00:15:05,000 --> 00:15:09,600
+QA EN #0182 - 00:15:05
+English test cue (UTF-8, no BOM)
+
+183
+00:15:10,000 --> 00:15:14,600
+QA EN #0183 - 00:15:10
+English test cue (UTF-8, no BOM)
+
+184
+00:15:15,000 --> 00:15:19,600
+QA EN #0184 - 00:15:15
+English test cue (UTF-8, no BOM)
+
+185
+00:15:20,000 --> 00:15:24,600
+QA EN #0185 - 00:15:20
+English test cue (UTF-8, no BOM)
+
+186
+00:15:25,000 --> 00:15:29,600
+QA EN #0186 - 00:15:25
+English test cue (UTF-8, no BOM)
+
+187
+00:15:30,000 --> 00:15:34,600
+QA EN #0187 - 00:15:30
+English test cue (UTF-8, no BOM)
+
+188
+00:15:35,000 --> 00:15:39,600
+QA EN #0188 - 00:15:35
+English test cue (UTF-8, no BOM)
+
+189
+00:15:40,000 --> 00:15:44,600
+QA EN #0189 - 00:15:40
+English test cue (UTF-8, no BOM)
+
+190
+00:15:45,000 --> 00:15:49,600
+QA EN #0190 - 00:15:45
+English test cue (UTF-8, no BOM)
+
+191
+00:15:50,000 --> 00:15:54,600
+QA EN #0191 - 00:15:50
+English test cue (UTF-8, no BOM)
+
+192
+00:15:55,000 --> 00:15:59,600
+QA EN #0192 - 00:15:55
+English test cue (UTF-8, no BOM)
+
+193
+00:16:00,000 --> 00:16:04,600
+QA EN #0193 - 00:16:00
+English test cue (UTF-8, no BOM)
+
+194
+00:16:05,000 --> 00:16:09,600
+QA EN #0194 - 00:16:05
+English test cue (UTF-8, no BOM)
+
+195
+00:16:10,000 --> 00:16:14,600
+QA EN #0195 - 00:16:10
+English test cue (UTF-8, no BOM)
+
+196
+00:16:15,000 --> 00:16:19,600
+QA EN #0196 - 00:16:15
+English test cue (UTF-8, no BOM)
+
+197
+00:16:20,000 --> 00:16:24,600
+QA EN #0197 - 00:16:20
+English test cue (UTF-8, no BOM)
+
+198
+00:16:25,000 --> 00:16:29,600
+QA EN #0198 - 00:16:25
+English test cue (UTF-8, no BOM)
+
+199
+00:16:30,000 --> 00:16:34,600
+QA EN #0199 - 00:16:30
+English test cue (UTF-8, no BOM)
+
+200
+00:16:35,000 --> 00:16:39,600
+QA EN #0200 - 00:16:35
+English test cue (UTF-8, no BOM)
+
+201
+00:16:40,000 --> 00:16:44,600
+QA EN #0201 - 00:16:40
+English test cue (UTF-8, no BOM)
+
+202
+00:16:45,000 --> 00:16:49,600
+QA EN #0202 - 00:16:45
+English test cue (UTF-8, no BOM)
+
+203
+00:16:50,000 --> 00:16:54,600
+QA EN #0203 - 00:16:50
+English test cue (UTF-8, no BOM)
+
+204
+00:16:55,000 --> 00:16:59,600
+QA EN #0204 - 00:16:55
+English test cue (UTF-8, no BOM)
+
+205
+00:17:00,000 --> 00:17:04,600
+QA EN #0205 - 00:17:00
+English test cue (UTF-8, no BOM)
+
+206
+00:17:05,000 --> 00:17:09,600
+QA EN #0206 - 00:17:05
+English test cue (UTF-8, no BOM)
+
+207
+00:17:10,000 --> 00:17:14,600
+QA EN #0207 - 00:17:10
+English test cue (UTF-8, no BOM)
+
+208
+00:17:15,000 --> 00:17:19,600
+QA EN #0208 - 00:17:15
+English test cue (UTF-8, no BOM)
+
+209
+00:17:20,000 --> 00:17:24,600
+QA EN #0209 - 00:17:20
+English test cue (UTF-8, no BOM)
+
+210
+00:17:25,000 --> 00:17:29,600
+QA EN #0210 - 00:17:25
+English test cue (UTF-8, no BOM)
+
+211
+00:17:30,000 --> 00:17:34,600
+QA EN #0211 - 00:17:30
+English test cue (UTF-8, no BOM)
+
+212
+00:17:35,000 --> 00:17:39,600
+QA EN #0212 - 00:17:35
+English test cue (UTF-8, no BOM)
+
+213
+00:17:40,000 --> 00:17:44,600
+QA EN #0213 - 00:17:40
+English test cue (UTF-8, no BOM)
+
+214
+00:17:45,000 --> 00:17:49,600
+QA EN #0214 - 00:17:45
+English test cue (UTF-8, no BOM)
+
+215
+00:17:50,000 --> 00:17:54,600
+QA EN #0215 - 00:17:50
+English test cue (UTF-8, no BOM)
+
+216
+00:17:55,000 --> 00:17:59,600
+QA EN #0216 - 00:17:55
+English test cue (UTF-8, no BOM)
+
+217
+00:18:00,000 --> 00:18:04,600
+QA EN #0217 - 00:18:00
+English test cue (UTF-8, no BOM)
+
+218
+00:18:05,000 --> 00:18:09,600
+QA EN #0218 - 00:18:05
+English test cue (UTF-8, no BOM)
+
+219
+00:18:10,000 --> 00:18:14,600
+QA EN #0219 - 00:18:10
+English test cue (UTF-8, no BOM)
+
+220
+00:18:15,000 --> 00:18:19,600
+QA EN #0220 - 00:18:15
+English test cue (UTF-8, no BOM)
+
+221
+00:18:20,000 --> 00:18:24,600
+QA EN #0221 - 00:18:20
+English test cue (UTF-8, no BOM)
+
+222
+00:18:25,000 --> 00:18:29,600
+QA EN #0222 - 00:18:25
+English test cue (UTF-8, no BOM)
+
+223
+00:18:30,000 --> 00:18:34,600
+QA EN #0223 - 00:18:30
+English test cue (UTF-8, no BOM)
+
+224
+00:18:35,000 --> 00:18:39,600
+QA EN #0224 - 00:18:35
+English test cue (UTF-8, no BOM)
+
+225
+00:18:40,000 --> 00:18:44,600
+QA EN #0225 - 00:18:40
+English test cue (UTF-8, no BOM)
+
+226
+00:18:45,000 --> 00:18:49,600
+QA EN #0226 - 00:18:45
+English test cue (UTF-8, no BOM)
+
+227
+00:18:50,000 --> 00:18:54,600
+QA EN #0227 - 00:18:50
+English test cue (UTF-8, no BOM)
+
+228
+00:18:55,000 --> 00:18:59,600
+QA EN #0228 - 00:18:55
+English test cue (UTF-8, no BOM)
+
+229
+00:19:00,000 --> 00:19:04,600
+QA EN #0229 - 00:19:00
+English test cue (UTF-8, no BOM)
+
+230
+00:19:05,000 --> 00:19:09,600
+QA EN #0230 - 00:19:05
+English test cue (UTF-8, no BOM)
+
+231
+00:19:10,000 --> 00:19:14,600
+QA EN #0231 - 00:19:10
+English test cue (UTF-8, no BOM)
+
+232
+00:19:15,000 --> 00:19:19,600
+QA EN #0232 - 00:19:15
+English test cue (UTF-8, no BOM)
+
+233
+00:19:20,000 --> 00:19:24,600
+QA EN #0233 - 00:19:20
+English test cue (UTF-8, no BOM)
+
+234
+00:19:25,000 --> 00:19:29,600
+QA EN #0234 - 00:19:25
+English test cue (UTF-8, no BOM)
+
+235
+00:19:30,000 --> 00:19:34,600
+QA EN #0235 - 00:19:30
+English test cue (UTF-8, no BOM)
+
+236
+00:19:35,000 --> 00:19:39,600
+QA EN #0236 - 00:19:35
+English test cue (UTF-8, no BOM)
+
+237
+00:19:40,000 --> 00:19:44,600
+QA EN #0237 - 00:19:40
+English test cue (UTF-8, no BOM)
+
+238
+00:19:45,000 --> 00:19:49,600
+QA EN #0238 - 00:19:45
+English test cue (UTF-8, no BOM)
+
+239
+00:19:50,000 --> 00:19:54,600
+QA EN #0239 - 00:19:50
+English test cue (UTF-8, no BOM)
+
+240
+00:19:55,000 --> 00:19:59,600
+QA EN #0240 - 00:19:55
+English test cue (UTF-8, no BOM)
+
+241
+00:20:00,000 --> 00:20:04,600
+QA EN #0241 - 00:20:00
+English test cue (UTF-8, no BOM)
+
+242
+00:20:05,000 --> 00:20:09,600
+QA EN #0242 - 00:20:05
+English test cue (UTF-8, no BOM)
+
+243
+00:20:10,000 --> 00:20:14,600
+QA EN #0243 - 00:20:10
+English test cue (UTF-8, no BOM)
+
+244
+00:20:15,000 --> 00:20:19,600
+QA EN #0244 - 00:20:15
+English test cue (UTF-8, no BOM)
+
+245
+00:20:20,000 --> 00:20:24,600
+QA EN #0245 - 00:20:20
+English test cue (UTF-8, no BOM)
+
+246
+00:20:25,000 --> 00:20:29,600
+QA EN #0246 - 00:20:25
+English test cue (UTF-8, no BOM)
+
+247
+00:20:30,000 --> 00:20:34,600
+QA EN #0247 - 00:20:30
+English test cue (UTF-8, no BOM)
+
+248
+00:20:35,000 --> 00:20:39,600
+QA EN #0248 - 00:20:35
+English test cue (UTF-8, no BOM)
+
+249
+00:20:40,000 --> 00:20:44,600
+QA EN #0249 - 00:20:40
+English test cue (UTF-8, no BOM)
+
+250
+00:20:45,000 --> 00:20:49,600
+QA EN #0250 - 00:20:45
+English test cue (UTF-8, no BOM)
+
+251
+00:20:50,000 --> 00:20:54,600
+QA EN #0251 - 00:20:50
+English test cue (UTF-8, no BOM)
+
+252
+00:20:55,000 --> 00:20:59,600
+QA EN #0252 - 00:20:55
+English test cue (UTF-8, no BOM)
+
+253
+00:21:00,000 --> 00:21:04,600
+QA EN #0253 - 00:21:00
+English test cue (UTF-8, no BOM)
+
+254
+00:21:05,000 --> 00:21:09,600
+QA EN #0254 - 00:21:05
+English test cue (UTF-8, no BOM)
+
+255
+00:21:10,000 --> 00:21:14,600
+QA EN #0255 - 00:21:10
+English test cue (UTF-8, no BOM)
+
+256
+00:21:15,000 --> 00:21:19,600
+QA EN #0256 - 00:21:15
+English test cue (UTF-8, no BOM)
+
+257
+00:21:20,000 --> 00:21:24,600
+QA EN #0257 - 00:21:20
+English test cue (UTF-8, no BOM)
+
+258
+00:21:25,000 --> 00:21:29,600
+QA EN #0258 - 00:21:25
+English test cue (UTF-8, no BOM)
+
+259
+00:21:30,000 --> 00:21:34,600
+QA EN #0259 - 00:21:30
+English test cue (UTF-8, no BOM)
+
+260
+00:21:35,000 --> 00:21:39,600
+QA EN #0260 - 00:21:35
+English test cue (UTF-8, no BOM)
+
+261
+00:21:40,000 --> 00:21:44,600
+QA EN #0261 - 00:21:40
+English test cue (UTF-8, no BOM)
+
+262
+00:21:45,000 --> 00:21:49,600
+QA EN #0262 - 00:21:45
+English test cue (UTF-8, no BOM)
+
+263
+00:21:50,000 --> 00:21:54,600
+QA EN #0263 - 00:21:50
+English test cue (UTF-8, no BOM)
+
+264
+00:21:55,000 --> 00:21:59,600
+QA EN #0264 - 00:21:55
+English test cue (UTF-8, no BOM)
+
+265
+00:22:00,000 --> 00:22:04,600
+QA EN #0265 - 00:22:00
+English test cue (UTF-8, no BOM)
+
+266
+00:22:05,000 --> 00:22:09,600
+QA EN #0266 - 00:22:05
+English test cue (UTF-8, no BOM)
+
+267
+00:22:10,000 --> 00:22:14,600
+QA EN #0267 - 00:22:10
+English test cue (UTF-8, no BOM)
+
+268
+00:22:15,000 --> 00:22:19,600
+QA EN #0268 - 00:22:15
+English test cue (UTF-8, no BOM)
+
+269
+00:22:20,000 --> 00:22:24,600
+QA EN #0269 - 00:22:20
+English test cue (UTF-8, no BOM)
+
+270
+00:22:25,000 --> 00:22:29,600
+QA EN #0270 - 00:22:25
+English test cue (UTF-8, no BOM)
+
+271
+00:22:30,000 --> 00:22:34,600
+QA EN #0271 - 00:22:30
+English test cue (UTF-8, no BOM)
+
+272
+00:22:35,000 --> 00:22:39,600
+QA EN #0272 - 00:22:35
+English test cue (UTF-8, no BOM)
+
+273
+00:22:40,000 --> 00:22:44,600
+QA EN #0273 - 00:22:40
+English test cue (UTF-8, no BOM)
+
+274
+00:22:45,000 --> 00:22:49,600
+QA EN #0274 - 00:22:45
+English test cue (UTF-8, no BOM)
+
+275
+00:22:50,000 --> 00:22:54,600
+QA EN #0275 - 00:22:50
+English test cue (UTF-8, no BOM)
+
+276
+00:22:55,000 --> 00:22:59,600
+QA EN #0276 - 00:22:55
+English test cue (UTF-8, no BOM)
+
+277
+00:23:00,000 --> 00:23:04,600
+QA EN #0277 - 00:23:00
+English test cue (UTF-8, no BOM)
+
+278
+00:23:05,000 --> 00:23:09,600
+QA EN #0278 - 00:23:05
+English test cue (UTF-8, no BOM)
+
+279
+00:23:10,000 --> 00:23:14,600
+QA EN #0279 - 00:23:10
+English test cue (UTF-8, no BOM)
+
+280
+00:23:15,000 --> 00:23:19,600
+QA EN #0280 - 00:23:15
+English test cue (UTF-8, no BOM)
+
+281
+00:23:20,000 --> 00:23:24,600
+QA EN #0281 - 00:23:20
+English test cue (UTF-8, no BOM)
+
+282
+00:23:25,000 --> 00:23:29,600
+QA EN #0282 - 00:23:25
+English test cue (UTF-8, no BOM)
+
+283
+00:23:30,000 --> 00:23:34,600
+QA EN #0283 - 00:23:30
+English test cue (UTF-8, no BOM)
+
+284
+00:23:35,000 --> 00:23:39,600
+QA EN #0284 - 00:23:35
+English test cue (UTF-8, no BOM)
+
+285
+00:23:40,000 --> 00:23:44,600
+QA EN #0285 - 00:23:40
+English test cue (UTF-8, no BOM)
+
+286
+00:23:45,000 --> 00:23:49,600
+QA EN #0286 - 00:23:45
+English test cue (UTF-8, no BOM)
+
+287
+00:23:50,000 --> 00:23:54,600
+QA EN #0287 - 00:23:50
+English test cue (UTF-8, no BOM)
+
+288
+00:23:55,000 --> 00:23:59,600
+QA EN #0288 - 00:23:55
+English test cue (UTF-8, no BOM)
+
+289
+00:24:00,000 --> 00:24:04,600
+QA EN #0289 - 00:24:00
+English test cue (UTF-8, no BOM)
+
+290
+00:24:05,000 --> 00:24:09,600
+QA EN #0290 - 00:24:05
+English test cue (UTF-8, no BOM)
+
+291
+00:24:10,000 --> 00:24:14,600
+QA EN #0291 - 00:24:10
+English test cue (UTF-8, no BOM)
+
+292
+00:24:15,000 --> 00:24:19,600
+QA EN #0292 - 00:24:15
+English test cue (UTF-8, no BOM)
+
+293
+00:24:20,000 --> 00:24:24,600
+QA EN #0293 - 00:24:20
+English test cue (UTF-8, no BOM)
+
+294
+00:24:25,000 --> 00:24:29,600
+QA EN #0294 - 00:24:25
+English test cue (UTF-8, no BOM)
+
+295
+00:24:30,000 --> 00:24:34,600
+QA EN #0295 - 00:24:30
+English test cue (UTF-8, no BOM)
+
+296
+00:24:35,000 --> 00:24:39,600
+QA EN #0296 - 00:24:35
+English test cue (UTF-8, no BOM)
+
+297
+00:24:40,000 --> 00:24:44,600
+QA EN #0297 - 00:24:40
+English test cue (UTF-8, no BOM)
+
+298
+00:24:45,000 --> 00:24:49,600
+QA EN #0298 - 00:24:45
+English test cue (UTF-8, no BOM)
+
+299
+00:24:50,000 --> 00:24:54,600
+QA EN #0299 - 00:24:50
+English test cue (UTF-8, no BOM)
+
+300
+00:24:55,000 --> 00:24:59,600
+QA EN #0300 - 00:24:55
+English test cue (UTF-8, no BOM)
+
+301
+00:25:00,000 --> 00:25:04,600
+QA EN #0301 - 00:25:00
+English test cue (UTF-8, no BOM)
+
+302
+00:25:05,000 --> 00:25:09,600
+QA EN #0302 - 00:25:05
+English test cue (UTF-8, no BOM)
+
+303
+00:25:10,000 --> 00:25:14,600
+QA EN #0303 - 00:25:10
+English test cue (UTF-8, no BOM)
+
+304
+00:25:15,000 --> 00:25:19,600
+QA EN #0304 - 00:25:15
+English test cue (UTF-8, no BOM)
+
+305
+00:25:20,000 --> 00:25:24,600
+QA EN #0305 - 00:25:20
+English test cue (UTF-8, no BOM)
+
+306
+00:25:25,000 --> 00:25:29,600
+QA EN #0306 - 00:25:25
+English test cue (UTF-8, no BOM)
+
+307
+00:25:30,000 --> 00:25:34,600
+QA EN #0307 - 00:25:30
+English test cue (UTF-8, no BOM)
+
+308
+00:25:35,000 --> 00:25:39,600
+QA EN #0308 - 00:25:35
+English test cue (UTF-8, no BOM)
+
+309
+00:25:40,000 --> 00:25:44,600
+QA EN #0309 - 00:25:40
+English test cue (UTF-8, no BOM)
+
+310
+00:25:45,000 --> 00:25:49,600
+QA EN #0310 - 00:25:45
+English test cue (UTF-8, no BOM)
+
+311
+00:25:50,000 --> 00:25:54,600
+QA EN #0311 - 00:25:50
+English test cue (UTF-8, no BOM)
+
+312
+00:25:55,000 --> 00:25:59,600
+QA EN #0312 - 00:25:55
+English test cue (UTF-8, no BOM)
+
+313
+00:26:00,000 --> 00:26:04,600
+QA EN #0313 - 00:26:00
+English test cue (UTF-8, no BOM)
+
+314
+00:26:05,000 --> 00:26:09,600
+QA EN #0314 - 00:26:05
+English test cue (UTF-8, no BOM)
+
+315
+00:26:10,000 --> 00:26:14,600
+QA EN #0315 - 00:26:10
+English test cue (UTF-8, no BOM)
+
+316
+00:26:15,000 --> 00:26:19,600
+QA EN #0316 - 00:26:15
+English test cue (UTF-8, no BOM)
+
+317
+00:26:20,000 --> 00:26:24,600
+QA EN #0317 - 00:26:20
+English test cue (UTF-8, no BOM)
+
+318
+00:26:25,000 --> 00:26:29,600
+QA EN #0318 - 00:26:25
+English test cue (UTF-8, no BOM)
+
+319
+00:26:30,000 --> 00:26:34,600
+QA EN #0319 - 00:26:30
+English test cue (UTF-8, no BOM)
+
+320
+00:26:35,000 --> 00:26:39,600
+QA EN #0320 - 00:26:35
+English test cue (UTF-8, no BOM)
+
+321
+00:26:40,000 --> 00:26:44,600
+QA EN #0321 - 00:26:40
+English test cue (UTF-8, no BOM)
+
+322
+00:26:45,000 --> 00:26:49,600
+QA EN #0322 - 00:26:45
+English test cue (UTF-8, no BOM)
+
+323
+00:26:50,000 --> 00:26:54,600
+QA EN #0323 - 00:26:50
+English test cue (UTF-8, no BOM)
+
+324
+00:26:55,000 --> 00:26:59,600
+QA EN #0324 - 00:26:55
+English test cue (UTF-8, no BOM)
+
+325
+00:27:00,000 --> 00:27:04,600
+QA EN #0325 - 00:27:00
+English test cue (UTF-8, no BOM)
+
+326
+00:27:05,000 --> 00:27:09,600
+QA EN #0326 - 00:27:05
+English test cue (UTF-8, no BOM)
+
+327
+00:27:10,000 --> 00:27:14,600
+QA EN #0327 - 00:27:10
+English test cue (UTF-8, no BOM)
+
+328
+00:27:15,000 --> 00:27:19,600
+QA EN #0328 - 00:27:15
+English test cue (UTF-8, no BOM)
+
+329
+00:27:20,000 --> 00:27:24,600
+QA EN #0329 - 00:27:20
+English test cue (UTF-8, no BOM)
+
+330
+00:27:25,000 --> 00:27:29,600
+QA EN #0330 - 00:27:25
+English test cue (UTF-8, no BOM)
+
+331
+00:27:30,000 --> 00:27:34,600
+QA EN #0331 - 00:27:30
+English test cue (UTF-8, no BOM)
+
+332
+00:27:35,000 --> 00:27:39,600
+QA EN #0332 - 00:27:35
+English test cue (UTF-8, no BOM)
+
+333
+00:27:40,000 --> 00:27:44,600
+QA EN #0333 - 00:27:40
+English test cue (UTF-8, no BOM)
+
+334
+00:27:45,000 --> 00:27:49,600
+QA EN #0334 - 00:27:45
+English test cue (UTF-8, no BOM)
+
+335
+00:27:50,000 --> 00:27:54,600
+QA EN #0335 - 00:27:50
+English test cue (UTF-8, no BOM)
+
+336
+00:27:55,000 --> 00:27:59,600
+QA EN #0336 - 00:27:55
+English test cue (UTF-8, no BOM)
+
+337
+00:28:00,000 --> 00:28:04,600
+QA EN #0337 - 00:28:00
+English test cue (UTF-8, no BOM)
+
+338
+00:28:05,000 --> 00:28:09,600
+QA EN #0338 - 00:28:05
+English test cue (UTF-8, no BOM)
+
+339
+00:28:10,000 --> 00:28:14,600
+QA EN #0339 - 00:28:10
+English test cue (UTF-8, no BOM)
+
+340
+00:28:15,000 --> 00:28:19,600
+QA EN #0340 - 00:28:15
+English test cue (UTF-8, no BOM)
+
+341
+00:28:20,000 --> 00:28:24,600
+QA EN #0341 - 00:28:20
+English test cue (UTF-8, no BOM)
+
+342
+00:28:25,000 --> 00:28:29,600
+QA EN #0342 - 00:28:25
+English test cue (UTF-8, no BOM)
+
+343
+00:28:30,000 --> 00:28:34,600
+QA EN #0343 - 00:28:30
+English test cue (UTF-8, no BOM)
+
+344
+00:28:35,000 --> 00:28:39,600
+QA EN #0344 - 00:28:35
+English test cue (UTF-8, no BOM)
+
+345
+00:28:40,000 --> 00:28:44,600
+QA EN #0345 - 00:28:40
+English test cue (UTF-8, no BOM)
+
+346
+00:28:45,000 --> 00:28:49,600
+QA EN #0346 - 00:28:45
+English test cue (UTF-8, no BOM)
+
+347
+00:28:50,000 --> 00:28:54,600
+QA EN #0347 - 00:28:50
+English test cue (UTF-8, no BOM)
+
+348
+00:28:55,000 --> 00:28:59,600
+QA EN #0348 - 00:28:55
+English test cue (UTF-8, no BOM)
+
+349
+00:29:00,000 --> 00:29:04,600
+QA EN #0349 - 00:29:00
+English test cue (UTF-8, no BOM)
+
+350
+00:29:05,000 --> 00:29:09,600
+QA EN #0350 - 00:29:05
+English test cue (UTF-8, no BOM)
+
+351
+00:29:10,000 --> 00:29:14,600
+QA EN #0351 - 00:29:10
+English test cue (UTF-8, no BOM)
+
+352
+00:29:15,000 --> 00:29:19,600
+QA EN #0352 - 00:29:15
+English test cue (UTF-8, no BOM)
+
+353
+00:29:20,000 --> 00:29:24,600
+QA EN #0353 - 00:29:20
+English test cue (UTF-8, no BOM)
+
+354
+00:29:25,000 --> 00:29:29,600
+QA EN #0354 - 00:29:25
+English test cue (UTF-8, no BOM)
+
+355
+00:29:30,000 --> 00:29:34,600
+QA EN #0355 - 00:29:30
+English test cue (UTF-8, no BOM)
+
+356
+00:29:35,000 --> 00:29:39,600
+QA EN #0356 - 00:29:35
+English test cue (UTF-8, no BOM)
+
+357
+00:29:40,000 --> 00:29:44,600
+QA EN #0357 - 00:29:40
+English test cue (UTF-8, no BOM)
+
+358
+00:29:45,000 --> 00:29:49,600
+QA EN #0358 - 00:29:45
+English test cue (UTF-8, no BOM)
+
+359
+00:29:50,000 --> 00:29:54,600
+QA EN #0359 - 00:29:50
+English test cue (UTF-8, no BOM)
+
+360
+00:29:55,000 --> 00:29:59,600
+QA EN #0360 - 00:29:55
+English test cue (UTF-8, no BOM)
+
+361
+00:30:00,000 --> 00:30:04,600
+QA EN #0361 - 00:30:00
+English test cue (UTF-8, no BOM)
+
+362
+00:30:05,000 --> 00:30:09,600
+QA EN #0362 - 00:30:05
+English test cue (UTF-8, no BOM)
+
+363
+00:30:10,000 --> 00:30:14,600
+QA EN #0363 - 00:30:10
+English test cue (UTF-8, no BOM)
+
+364
+00:30:15,000 --> 00:30:19,600
+QA EN #0364 - 00:30:15
+English test cue (UTF-8, no BOM)
+
+365
+00:30:20,000 --> 00:30:24,600
+QA EN #0365 - 00:30:20
+English test cue (UTF-8, no BOM)
+
+366
+00:30:25,000 --> 00:30:29,600
+QA EN #0366 - 00:30:25
+English test cue (UTF-8, no BOM)
+
+367
+00:30:30,000 --> 00:30:34,600
+QA EN #0367 - 00:30:30
+English test cue (UTF-8, no BOM)
+
+368
+00:30:35,000 --> 00:30:39,600
+QA EN #0368 - 00:30:35
+English test cue (UTF-8, no BOM)
+
+369
+00:30:40,000 --> 00:30:44,600
+QA EN #0369 - 00:30:40
+English test cue (UTF-8, no BOM)
+
+370
+00:30:45,000 --> 00:30:49,600
+QA EN #0370 - 00:30:45
+English test cue (UTF-8, no BOM)
+
+371
+00:30:50,000 --> 00:30:54,600
+QA EN #0371 - 00:30:50
+English test cue (UTF-8, no BOM)
+
+372
+00:30:55,000 --> 00:30:59,600
+QA EN #0372 - 00:30:55
+English test cue (UTF-8, no BOM)
+
+373
+00:31:00,000 --> 00:31:04,600
+QA EN #0373 - 00:31:00
+English test cue (UTF-8, no BOM)
+
+374
+00:31:05,000 --> 00:31:09,600
+QA EN #0374 - 00:31:05
+English test cue (UTF-8, no BOM)
+
+375
+00:31:10,000 --> 00:31:14,600
+QA EN #0375 - 00:31:10
+English test cue (UTF-8, no BOM)
+
+376
+00:31:15,000 --> 00:31:19,600
+QA EN #0376 - 00:31:15
+English test cue (UTF-8, no BOM)
+
+377
+00:31:20,000 --> 00:31:24,600
+QA EN #0377 - 00:31:20
+English test cue (UTF-8, no BOM)
+
+378
+00:31:25,000 --> 00:31:29,600
+QA EN #0378 - 00:31:25
+English test cue (UTF-8, no BOM)
+
+379
+00:31:30,000 --> 00:31:34,600
+QA EN #0379 - 00:31:30
+English test cue (UTF-8, no BOM)
+
+380
+00:31:35,000 --> 00:31:39,600
+QA EN #0380 - 00:31:35
+English test cue (UTF-8, no BOM)
+
+381
+00:31:40,000 --> 00:31:44,600
+QA EN #0381 - 00:31:40
+English test cue (UTF-8, no BOM)
+
+382
+00:31:45,000 --> 00:31:49,600
+QA EN #0382 - 00:31:45
+English test cue (UTF-8, no BOM)
+
+383
+00:31:50,000 --> 00:31:54,600
+QA EN #0383 - 00:31:50
+English test cue (UTF-8, no BOM)
+
+384
+00:31:55,000 --> 00:31:59,600
+QA EN #0384 - 00:31:55
+English test cue (UTF-8, no BOM)
+
+385
+00:32:00,000 --> 00:32:04,600
+QA EN #0385 - 00:32:00
+English test cue (UTF-8, no BOM)
+
+386
+00:32:05,000 --> 00:32:09,600
+QA EN #0386 - 00:32:05
+English test cue (UTF-8, no BOM)
+
+387
+00:32:10,000 --> 00:32:14,600
+QA EN #0387 - 00:32:10
+English test cue (UTF-8, no BOM)
+
+388
+00:32:15,000 --> 00:32:19,600
+QA EN #0388 - 00:32:15
+English test cue (UTF-8, no BOM)
+
+389
+00:32:20,000 --> 00:32:24,600
+QA EN #0389 - 00:32:20
+English test cue (UTF-8, no BOM)
+
+390
+00:32:25,000 --> 00:32:29,600
+QA EN #0390 - 00:32:25
+English test cue (UTF-8, no BOM)
+
+391
+00:32:30,000 --> 00:32:34,600
+QA EN #0391 - 00:32:30
+English test cue (UTF-8, no BOM)
+
+392
+00:32:35,000 --> 00:32:39,600
+QA EN #0392 - 00:32:35
+English test cue (UTF-8, no BOM)
+
+393
+00:32:40,000 --> 00:32:44,600
+QA EN #0393 - 00:32:40
+English test cue (UTF-8, no BOM)
+
+394
+00:32:45,000 --> 00:32:49,600
+QA EN #0394 - 00:32:45
+English test cue (UTF-8, no BOM)
+
+395
+00:32:50,000 --> 00:32:54,600
+QA EN #0395 - 00:32:50
+English test cue (UTF-8, no BOM)
+
+396
+00:32:55,000 --> 00:32:59,600
+QA EN #0396 - 00:32:55
+English test cue (UTF-8, no BOM)
+
+397
+00:33:00,000 --> 00:33:04,600
+QA EN #0397 - 00:33:00
+English test cue (UTF-8, no BOM)
+
+398
+00:33:05,000 --> 00:33:09,600
+QA EN #0398 - 00:33:05
+English test cue (UTF-8, no BOM)
+
+399
+00:33:10,000 --> 00:33:14,600
+QA EN #0399 - 00:33:10
+English test cue (UTF-8, no BOM)
+
+400
+00:33:15,000 --> 00:33:19,600
+QA EN #0400 - 00:33:15
+English test cue (UTF-8, no BOM)
+
+401
+00:33:20,000 --> 00:33:24,600
+QA EN #0401 - 00:33:20
+English test cue (UTF-8, no BOM)
+
+402
+00:33:25,000 --> 00:33:29,600
+QA EN #0402 - 00:33:25
+English test cue (UTF-8, no BOM)
+
+403
+00:33:30,000 --> 00:33:34,600
+QA EN #0403 - 00:33:30
+English test cue (UTF-8, no BOM)
+
+404
+00:33:35,000 --> 00:33:39,600
+QA EN #0404 - 00:33:35
+English test cue (UTF-8, no BOM)
+
+405
+00:33:40,000 --> 00:33:44,600
+QA EN #0405 - 00:33:40
+English test cue (UTF-8, no BOM)
+
+406
+00:33:45,000 --> 00:33:49,600
+QA EN #0406 - 00:33:45
+English test cue (UTF-8, no BOM)
+
+407
+00:33:50,000 --> 00:33:54,600
+QA EN #0407 - 00:33:50
+English test cue (UTF-8, no BOM)
+
+408
+00:33:55,000 --> 00:33:59,600
+QA EN #0408 - 00:33:55
+English test cue (UTF-8, no BOM)
+
+409
+00:34:00,000 --> 00:34:04,600
+QA EN #0409 - 00:34:00
+English test cue (UTF-8, no BOM)
+
+410
+00:34:05,000 --> 00:34:09,600
+QA EN #0410 - 00:34:05
+English test cue (UTF-8, no BOM)
+
+411
+00:34:10,000 --> 00:34:14,600
+QA EN #0411 - 00:34:10
+English test cue (UTF-8, no BOM)
+
+412
+00:34:15,000 --> 00:34:19,600
+QA EN #0412 - 00:34:15
+English test cue (UTF-8, no BOM)
+
+413
+00:34:20,000 --> 00:34:24,600
+QA EN #0413 - 00:34:20
+English test cue (UTF-8, no BOM)
+
+414
+00:34:25,000 --> 00:34:29,600
+QA EN #0414 - 00:34:25
+English test cue (UTF-8, no BOM)
+
+415
+00:34:30,000 --> 00:34:34,600
+QA EN #0415 - 00:34:30
+English test cue (UTF-8, no BOM)
+
+416
+00:34:35,000 --> 00:34:39,600
+QA EN #0416 - 00:34:35
+English test cue (UTF-8, no BOM)
+
+417
+00:34:40,000 --> 00:34:44,600
+QA EN #0417 - 00:34:40
+English test cue (UTF-8, no BOM)
+
+418
+00:34:45,000 --> 00:34:49,600
+QA EN #0418 - 00:34:45
+English test cue (UTF-8, no BOM)
+
+419
+00:34:50,000 --> 00:34:54,600
+QA EN #0419 - 00:34:50
+English test cue (UTF-8, no BOM)
+
+420
+00:34:55,000 --> 00:34:59,600
+QA EN #0420 - 00:34:55
+English test cue (UTF-8, no BOM)
+
+421
+00:35:00,000 --> 00:35:04,600
+QA EN #0421 - 00:35:00
+English test cue (UTF-8, no BOM)
+
+422
+00:35:05,000 --> 00:35:09,600
+QA EN #0422 - 00:35:05
+English test cue (UTF-8, no BOM)
+
+423
+00:35:10,000 --> 00:35:14,600
+QA EN #0423 - 00:35:10
+English test cue (UTF-8, no BOM)
+
+424
+00:35:15,000 --> 00:35:19,600
+QA EN #0424 - 00:35:15
+English test cue (UTF-8, no BOM)
+
+425
+00:35:20,000 --> 00:35:24,600
+QA EN #0425 - 00:35:20
+English test cue (UTF-8, no BOM)
+
+426
+00:35:25,000 --> 00:35:29,600
+QA EN #0426 - 00:35:25
+English test cue (UTF-8, no BOM)
+
+427
+00:35:30,000 --> 00:35:34,600
+QA EN #0427 - 00:35:30
+English test cue (UTF-8, no BOM)
+
+428
+00:35:35,000 --> 00:35:39,600
+QA EN #0428 - 00:35:35
+English test cue (UTF-8, no BOM)
+
+429
+00:35:40,000 --> 00:35:44,600
+QA EN #0429 - 00:35:40
+English test cue (UTF-8, no BOM)
+
+430
+00:35:45,000 --> 00:35:49,600
+QA EN #0430 - 00:35:45
+English test cue (UTF-8, no BOM)
+
+431
+00:35:50,000 --> 00:35:54,600
+QA EN #0431 - 00:35:50
+English test cue (UTF-8, no BOM)
+
+432
+00:35:55,000 --> 00:35:59,600
+QA EN #0432 - 00:35:55
+English test cue (UTF-8, no BOM)
+
+433
+00:36:00,000 --> 00:36:04,600
+QA EN #0433 - 00:36:00
+English test cue (UTF-8, no BOM)
+
+434
+00:36:05,000 --> 00:36:09,600
+QA EN #0434 - 00:36:05
+English test cue (UTF-8, no BOM)
+
+435
+00:36:10,000 --> 00:36:14,600
+QA EN #0435 - 00:36:10
+English test cue (UTF-8, no BOM)
+
+436
+00:36:15,000 --> 00:36:19,600
+QA EN #0436 - 00:36:15
+English test cue (UTF-8, no BOM)
+
+437
+00:36:20,000 --> 00:36:24,600
+QA EN #0437 - 00:36:20
+English test cue (UTF-8, no BOM)
+
+438
+00:36:25,000 --> 00:36:29,600
+QA EN #0438 - 00:36:25
+English test cue (UTF-8, no BOM)
+
+439
+00:36:30,000 --> 00:36:34,600
+QA EN #0439 - 00:36:30
+English test cue (UTF-8, no BOM)
+
+440
+00:36:35,000 --> 00:36:39,600
+QA EN #0440 - 00:36:35
+English test cue (UTF-8, no BOM)
+
+441
+00:36:40,000 --> 00:36:44,600
+QA EN #0441 - 00:36:40
+English test cue (UTF-8, no BOM)
+
+442
+00:36:45,000 --> 00:36:49,600
+QA EN #0442 - 00:36:45
+English test cue (UTF-8, no BOM)
+
+443
+00:36:50,000 --> 00:36:54,600
+QA EN #0443 - 00:36:50
+English test cue (UTF-8, no BOM)
+
+444
+00:36:55,000 --> 00:36:59,600
+QA EN #0444 - 00:36:55
+English test cue (UTF-8, no BOM)
+
+445
+00:37:00,000 --> 00:37:04,600
+QA EN #0445 - 00:37:00
+English test cue (UTF-8, no BOM)
+
+446
+00:37:05,000 --> 00:37:09,600
+QA EN #0446 - 00:37:05
+English test cue (UTF-8, no BOM)
+
+447
+00:37:10,000 --> 00:37:14,600
+QA EN #0447 - 00:37:10
+English test cue (UTF-8, no BOM)
+
+448
+00:37:15,000 --> 00:37:19,600
+QA EN #0448 - 00:37:15
+English test cue (UTF-8, no BOM)
+
+449
+00:37:20,000 --> 00:37:24,600
+QA EN #0449 - 00:37:20
+English test cue (UTF-8, no BOM)
+
+450
+00:37:25,000 --> 00:37:29,600
+QA EN #0450 - 00:37:25
+English test cue (UTF-8, no BOM)
+
+451
+00:37:30,000 --> 00:37:34,600
+QA EN #0451 - 00:37:30
+English test cue (UTF-8, no BOM)
+
+452
+00:37:35,000 --> 00:37:39,600
+QA EN #0452 - 00:37:35
+English test cue (UTF-8, no BOM)
+
+453
+00:37:40,000 --> 00:37:44,600
+QA EN #0453 - 00:37:40
+English test cue (UTF-8, no BOM)
+
+454
+00:37:45,000 --> 00:37:49,600
+QA EN #0454 - 00:37:45
+English test cue (UTF-8, no BOM)
+
+455
+00:37:50,000 --> 00:37:54,600
+QA EN #0455 - 00:37:50
+English test cue (UTF-8, no BOM)
+
+456
+00:37:55,000 --> 00:37:59,600
+QA EN #0456 - 00:37:55
+English test cue (UTF-8, no BOM)
+
+457
+00:38:00,000 --> 00:38:04,600
+QA EN #0457 - 00:38:00
+English test cue (UTF-8, no BOM)
+
+458
+00:38:05,000 --> 00:38:09,600
+QA EN #0458 - 00:38:05
+English test cue (UTF-8, no BOM)
+
+459
+00:38:10,000 --> 00:38:14,600
+QA EN #0459 - 00:38:10
+English test cue (UTF-8, no BOM)
+
+460
+00:38:15,000 --> 00:38:19,600
+QA EN #0460 - 00:38:15
+English test cue (UTF-8, no BOM)
+
+461
+00:38:20,000 --> 00:38:24,600
+QA EN #0461 - 00:38:20
+English test cue (UTF-8, no BOM)
+
+462
+00:38:25,000 --> 00:38:29,600
+QA EN #0462 - 00:38:25
+English test cue (UTF-8, no BOM)
+
+463
+00:38:30,000 --> 00:38:34,600
+QA EN #0463 - 00:38:30
+English test cue (UTF-8, no BOM)
+
+464
+00:38:35,000 --> 00:38:39,600
+QA EN #0464 - 00:38:35
+English test cue (UTF-8, no BOM)
+
+465
+00:38:40,000 --> 00:38:44,600
+QA EN #0465 - 00:38:40
+English test cue (UTF-8, no BOM)
+
+466
+00:38:45,000 --> 00:38:49,600
+QA EN #0466 - 00:38:45
+English test cue (UTF-8, no BOM)
+
+467
+00:38:50,000 --> 00:38:54,600
+QA EN #0467 - 00:38:50
+English test cue (UTF-8, no BOM)
+
+468
+00:38:55,000 --> 00:38:59,600
+QA EN #0468 - 00:38:55
+English test cue (UTF-8, no BOM)
+
+469
+00:39:00,000 --> 00:39:04,600
+QA EN #0469 - 00:39:00
+English test cue (UTF-8, no BOM)
+
+470
+00:39:05,000 --> 00:39:09,600
+QA EN #0470 - 00:39:05
+English test cue (UTF-8, no BOM)
+
+471
+00:39:10,000 --> 00:39:14,600
+QA EN #0471 - 00:39:10
+English test cue (UTF-8, no BOM)
+
+472
+00:39:15,000 --> 00:39:19,600
+QA EN #0472 - 00:39:15
+English test cue (UTF-8, no BOM)
+
+473
+00:39:20,000 --> 00:39:24,600
+QA EN #0473 - 00:39:20
+English test cue (UTF-8, no BOM)
+
+474
+00:39:25,000 --> 00:39:29,600
+QA EN #0474 - 00:39:25
+English test cue (UTF-8, no BOM)
+
+475
+00:39:30,000 --> 00:39:34,600
+QA EN #0475 - 00:39:30
+English test cue (UTF-8, no BOM)
+
+476
+00:39:35,000 --> 00:39:39,600
+QA EN #0476 - 00:39:35
+English test cue (UTF-8, no BOM)
+
+477
+00:39:40,000 --> 00:39:44,600
+QA EN #0477 - 00:39:40
+English test cue (UTF-8, no BOM)
+
+478
+00:39:45,000 --> 00:39:49,600
+QA EN #0478 - 00:39:45
+English test cue (UTF-8, no BOM)
+
+479
+00:39:50,000 --> 00:39:54,600
+QA EN #0479 - 00:39:50
+English test cue (UTF-8, no BOM)
+
+480
+00:39:55,000 --> 00:39:59,600
+QA EN #0480 - 00:39:55
+English test cue (UTF-8, no BOM)
+
+481
+00:40:00,000 --> 00:40:04,600
+QA EN #0481 - 00:40:00
+English test cue (UTF-8, no BOM)
+
+482
+00:40:05,000 --> 00:40:09,600
+QA EN #0482 - 00:40:05
+English test cue (UTF-8, no BOM)
+
+483
+00:40:10,000 --> 00:40:14,600
+QA EN #0483 - 00:40:10
+English test cue (UTF-8, no BOM)
+
+484
+00:40:15,000 --> 00:40:19,600
+QA EN #0484 - 00:40:15
+English test cue (UTF-8, no BOM)
+
+485
+00:40:20,000 --> 00:40:24,600
+QA EN #0485 - 00:40:20
+English test cue (UTF-8, no BOM)
+
+486
+00:40:25,000 --> 00:40:29,600
+QA EN #0486 - 00:40:25
+English test cue (UTF-8, no BOM)
+
+487
+00:40:30,000 --> 00:40:34,600
+QA EN #0487 - 00:40:30
+English test cue (UTF-8, no BOM)
+
+488
+00:40:35,000 --> 00:40:39,600
+QA EN #0488 - 00:40:35
+English test cue (UTF-8, no BOM)
+
+489
+00:40:40,000 --> 00:40:44,600
+QA EN #0489 - 00:40:40
+English test cue (UTF-8, no BOM)
+
+490
+00:40:45,000 --> 00:40:49,600
+QA EN #0490 - 00:40:45
+English test cue (UTF-8, no BOM)
+
+491
+00:40:50,000 --> 00:40:54,600
+QA EN #0491 - 00:40:50
+English test cue (UTF-8, no BOM)
+
+492
+00:40:55,000 --> 00:40:59,600
+QA EN #0492 - 00:40:55
+English test cue (UTF-8, no BOM)
+
+493
+00:41:00,000 --> 00:41:04,600
+QA EN #0493 - 00:41:00
+English test cue (UTF-8, no BOM)
+
+494
+00:41:05,000 --> 00:41:09,600
+QA EN #0494 - 00:41:05
+English test cue (UTF-8, no BOM)
+
+495
+00:41:10,000 --> 00:41:14,600
+QA EN #0495 - 00:41:10
+English test cue (UTF-8, no BOM)
+
+496
+00:41:15,000 --> 00:41:19,600
+QA EN #0496 - 00:41:15
+English test cue (UTF-8, no BOM)
+
+497
+00:41:20,000 --> 00:41:24,600
+QA EN #0497 - 00:41:20
+English test cue (UTF-8, no BOM)
+
+498
+00:41:25,000 --> 00:41:29,600
+QA EN #0498 - 00:41:25
+English test cue (UTF-8, no BOM)
+
+499
+00:41:30,000 --> 00:41:34,600
+QA EN #0499 - 00:41:30
+English test cue (UTF-8, no BOM)
+
+500
+00:41:35,000 --> 00:41:39,600
+QA EN #0500 - 00:41:35
+English test cue (UTF-8, no BOM)
+
+501
+00:41:40,000 --> 00:41:44,600
+QA EN #0501 - 00:41:40
+English test cue (UTF-8, no BOM)
+
+502
+00:41:45,000 --> 00:41:49,600
+QA EN #0502 - 00:41:45
+English test cue (UTF-8, no BOM)
+
+503
+00:41:50,000 --> 00:41:54,600
+QA EN #0503 - 00:41:50
+English test cue (UTF-8, no BOM)
+
+504
+00:41:55,000 --> 00:41:59,600
+QA EN #0504 - 00:41:55
+English test cue (UTF-8, no BOM)
+
+505
+00:42:00,000 --> 00:42:04,600
+QA EN #0505 - 00:42:00
+English test cue (UTF-8, no BOM)
+
+506
+00:42:05,000 --> 00:42:09,600
+QA EN #0506 - 00:42:05
+English test cue (UTF-8, no BOM)
+
+507
+00:42:10,000 --> 00:42:14,600
+QA EN #0507 - 00:42:10
+English test cue (UTF-8, no BOM)
+
+508
+00:42:15,000 --> 00:42:19,600
+QA EN #0508 - 00:42:15
+English test cue (UTF-8, no BOM)
+
+509
+00:42:20,000 --> 00:42:24,600
+QA EN #0509 - 00:42:20
+English test cue (UTF-8, no BOM)
+
+510
+00:42:25,000 --> 00:42:29,600
+QA EN #0510 - 00:42:25
+English test cue (UTF-8, no BOM)
+
+511
+00:42:30,000 --> 00:42:34,600
+QA EN #0511 - 00:42:30
+English test cue (UTF-8, no BOM)
+
+512
+00:42:35,000 --> 00:42:39,600
+QA EN #0512 - 00:42:35
+English test cue (UTF-8, no BOM)
+
+513
+00:42:40,000 --> 00:42:44,600
+QA EN #0513 - 00:42:40
+English test cue (UTF-8, no BOM)
+
+514
+00:42:45,000 --> 00:42:49,600
+QA EN #0514 - 00:42:45
+English test cue (UTF-8, no BOM)
+
+515
+00:42:50,000 --> 00:42:54,600
+QA EN #0515 - 00:42:50
+English test cue (UTF-8, no BOM)
+
+516
+00:42:55,000 --> 00:42:59,600
+QA EN #0516 - 00:42:55
+English test cue (UTF-8, no BOM)
+
+517
+00:43:00,000 --> 00:43:04,600
+QA EN #0517 - 00:43:00
+English test cue (UTF-8, no BOM)
+
+518
+00:43:05,000 --> 00:43:09,600
+QA EN #0518 - 00:43:05
+English test cue (UTF-8, no BOM)
+
+519
+00:43:10,000 --> 00:43:14,600
+QA EN #0519 - 00:43:10
+English test cue (UTF-8, no BOM)
+
+520
+00:43:15,000 --> 00:43:19,600
+QA EN #0520 - 00:43:15
+English test cue (UTF-8, no BOM)
+
+521
+00:43:20,000 --> 00:43:24,600
+QA EN #0521 - 00:43:20
+English test cue (UTF-8, no BOM)
+
+522
+00:43:25,000 --> 00:43:29,600
+QA EN #0522 - 00:43:25
+English test cue (UTF-8, no BOM)
+
+523
+00:43:30,000 --> 00:43:34,600
+QA EN #0523 - 00:43:30
+English test cue (UTF-8, no BOM)
+
+524
+00:43:35,000 --> 00:43:39,600
+QA EN #0524 - 00:43:35
+English test cue (UTF-8, no BOM)
+
+525
+00:43:40,000 --> 00:43:44,600
+QA EN #0525 - 00:43:40
+English test cue (UTF-8, no BOM)
+
+526
+00:43:45,000 --> 00:43:49,600
+QA EN #0526 - 00:43:45
+English test cue (UTF-8, no BOM)
+
+527
+00:43:50,000 --> 00:43:54,600
+QA EN #0527 - 00:43:50
+English test cue (UTF-8, no BOM)
+
+528
+00:43:55,000 --> 00:43:59,600
+QA EN #0528 - 00:43:55
+English test cue (UTF-8, no BOM)
+
+529
+00:44:00,000 --> 00:44:04,600
+QA EN #0529 - 00:44:00
+English test cue (UTF-8, no BOM)
+
+530
+00:44:05,000 --> 00:44:09,600
+QA EN #0530 - 00:44:05
+English test cue (UTF-8, no BOM)
+
+531
+00:44:10,000 --> 00:44:14,600
+QA EN #0531 - 00:44:10
+English test cue (UTF-8, no BOM)
+
+532
+00:44:15,000 --> 00:44:19,600
+QA EN #0532 - 00:44:15
+English test cue (UTF-8, no BOM)
+
+533
+00:44:20,000 --> 00:44:24,600
+QA EN #0533 - 00:44:20
+English test cue (UTF-8, no BOM)
+
+534
+00:44:25,000 --> 00:44:29,600
+QA EN #0534 - 00:44:25
+English test cue (UTF-8, no BOM)
+
+535
+00:44:30,000 --> 00:44:34,600
+QA EN #0535 - 00:44:30
+English test cue (UTF-8, no BOM)
+
+536
+00:44:35,000 --> 00:44:39,600
+QA EN #0536 - 00:44:35
+English test cue (UTF-8, no BOM)
+
+537
+00:44:40,000 --> 00:44:44,600
+QA EN #0537 - 00:44:40
+English test cue (UTF-8, no BOM)
+
+538
+00:44:45,000 --> 00:44:49,600
+QA EN #0538 - 00:44:45
+English test cue (UTF-8, no BOM)
+
+539
+00:44:50,000 --> 00:44:54,600
+QA EN #0539 - 00:44:50
+English test cue (UTF-8, no BOM)
+
+540
+00:44:55,000 --> 00:44:59,600
+QA EN #0540 - 00:44:55
+English test cue (UTF-8, no BOM)
+
+541
+00:45:00,000 --> 00:45:04,600
+QA EN #0541 - 00:45:00
+English test cue (UTF-8, no BOM)
+
+542
+00:45:05,000 --> 00:45:09,600
+QA EN #0542 - 00:45:05
+English test cue (UTF-8, no BOM)
+
+543
+00:45:10,000 --> 00:45:14,600
+QA EN #0543 - 00:45:10
+English test cue (UTF-8, no BOM)
+
+544
+00:45:15,000 --> 00:45:19,600
+QA EN #0544 - 00:45:15
+English test cue (UTF-8, no BOM)
+
+545
+00:45:20,000 --> 00:45:24,600
+QA EN #0545 - 00:45:20
+English test cue (UTF-8, no BOM)
+
+546
+00:45:25,000 --> 00:45:29,600
+QA EN #0546 - 00:45:25
+English test cue (UTF-8, no BOM)
+
+547
+00:45:30,000 --> 00:45:34,600
+QA EN #0547 - 00:45:30
+English test cue (UTF-8, no BOM)
+
+548
+00:45:35,000 --> 00:45:39,600
+QA EN #0548 - 00:45:35
+English test cue (UTF-8, no BOM)
+
+549
+00:45:40,000 --> 00:45:44,600
+QA EN #0549 - 00:45:40
+English test cue (UTF-8, no BOM)
+
+550
+00:45:45,000 --> 00:45:49,600
+QA EN #0550 - 00:45:45
+English test cue (UTF-8, no BOM)
+
+551
+00:45:50,000 --> 00:45:54,600
+QA EN #0551 - 00:45:50
+English test cue (UTF-8, no BOM)
+
+552
+00:45:55,000 --> 00:45:59,600
+QA EN #0552 - 00:45:55
+English test cue (UTF-8, no BOM)
+
+553
+00:46:00,000 --> 00:46:04,600
+QA EN #0553 - 00:46:00
+English test cue (UTF-8, no BOM)
+
+554
+00:46:05,000 --> 00:46:09,600
+QA EN #0554 - 00:46:05
+English test cue (UTF-8, no BOM)
+
+555
+00:46:10,000 --> 00:46:14,600
+QA EN #0555 - 00:46:10
+English test cue (UTF-8, no BOM)
+
+556
+00:46:15,000 --> 00:46:19,600
+QA EN #0556 - 00:46:15
+English test cue (UTF-8, no BOM)
+
+557
+00:46:20,000 --> 00:46:24,600
+QA EN #0557 - 00:46:20
+English test cue (UTF-8, no BOM)
+
+558
+00:46:25,000 --> 00:46:29,600
+QA EN #0558 - 00:46:25
+English test cue (UTF-8, no BOM)
+
+559
+00:46:30,000 --> 00:46:34,600
+QA EN #0559 - 00:46:30
+English test cue (UTF-8, no BOM)
+
+560
+00:46:35,000 --> 00:46:39,600
+QA EN #0560 - 00:46:35
+English test cue (UTF-8, no BOM)
+
+561
+00:46:40,000 --> 00:46:44,600
+QA EN #0561 - 00:46:40
+English test cue (UTF-8, no BOM)
+
+562
+00:46:45,000 --> 00:46:49,600
+QA EN #0562 - 00:46:45
+English test cue (UTF-8, no BOM)
+
+563
+00:46:50,000 --> 00:46:54,600
+QA EN #0563 - 00:46:50
+English test cue (UTF-8, no BOM)
+
+564
+00:46:55,000 --> 00:46:59,600
+QA EN #0564 - 00:46:55
+English test cue (UTF-8, no BOM)
+
+565
+00:47:00,000 --> 00:47:04,600
+QA EN #0565 - 00:47:00
+English test cue (UTF-8, no BOM)
+
+566
+00:47:05,000 --> 00:47:09,600
+QA EN #0566 - 00:47:05
+English test cue (UTF-8, no BOM)
+
+567
+00:47:10,000 --> 00:47:14,600
+QA EN #0567 - 00:47:10
+English test cue (UTF-8, no BOM)
+
+568
+00:47:15,000 --> 00:47:19,600
+QA EN #0568 - 00:47:15
+English test cue (UTF-8, no BOM)
+
+569
+00:47:20,000 --> 00:47:24,600
+QA EN #0569 - 00:47:20
+English test cue (UTF-8, no BOM)
+
+570
+00:47:25,000 --> 00:47:29,600
+QA EN #0570 - 00:47:25
+English test cue (UTF-8, no BOM)
+
+571
+00:47:30,000 --> 00:47:34,600
+QA EN #0571 - 00:47:30
+English test cue (UTF-8, no BOM)
+
+572
+00:47:35,000 --> 00:47:39,600
+QA EN #0572 - 00:47:35
+English test cue (UTF-8, no BOM)
+
+573
+00:47:40,000 --> 00:47:44,600
+QA EN #0573 - 00:47:40
+English test cue (UTF-8, no BOM)
+
+574
+00:47:45,000 --> 00:47:49,600
+QA EN #0574 - 00:47:45
+English test cue (UTF-8, no BOM)
+
+575
+00:47:50,000 --> 00:47:54,600
+QA EN #0575 - 00:47:50
+English test cue (UTF-8, no BOM)
+
+576
+00:47:55,000 --> 00:47:59,600
+QA EN #0576 - 00:47:55
+English test cue (UTF-8, no BOM)
+
+577
+00:48:00,000 --> 00:48:04,600
+QA EN #0577 - 00:48:00
+English test cue (UTF-8, no BOM)
+
+578
+00:48:05,000 --> 00:48:09,600
+QA EN #0578 - 00:48:05
+English test cue (UTF-8, no BOM)
+
+579
+00:48:10,000 --> 00:48:14,600
+QA EN #0579 - 00:48:10
+English test cue (UTF-8, no BOM)
+
+580
+00:48:15,000 --> 00:48:19,600
+QA EN #0580 - 00:48:15
+English test cue (UTF-8, no BOM)
+
+581
+00:48:20,000 --> 00:48:24,600
+QA EN #0581 - 00:48:20
+English test cue (UTF-8, no BOM)
+
+582
+00:48:25,000 --> 00:48:29,600
+QA EN #0582 - 00:48:25
+English test cue (UTF-8, no BOM)
+
+583
+00:48:30,000 --> 00:48:34,600
+QA EN #0583 - 00:48:30
+English test cue (UTF-8, no BOM)
+
+584
+00:48:35,000 --> 00:48:39,600
+QA EN #0584 - 00:48:35
+English test cue (UTF-8, no BOM)
+
+585
+00:48:40,000 --> 00:48:44,600
+QA EN #0585 - 00:48:40
+English test cue (UTF-8, no BOM)
+
+586
+00:48:45,000 --> 00:48:49,600
+QA EN #0586 - 00:48:45
+English test cue (UTF-8, no BOM)
+
+587
+00:48:50,000 --> 00:48:54,600
+QA EN #0587 - 00:48:50
+English test cue (UTF-8, no BOM)
+
+588
+00:48:55,000 --> 00:48:59,600
+QA EN #0588 - 00:48:55
+English test cue (UTF-8, no BOM)
+
+589
+00:49:00,000 --> 00:49:04,600
+QA EN #0589 - 00:49:00
+English test cue (UTF-8, no BOM)
+
+590
+00:49:05,000 --> 00:49:09,600
+QA EN #0590 - 00:49:05
+English test cue (UTF-8, no BOM)
+
+591
+00:49:10,000 --> 00:49:14,600
+QA EN #0591 - 00:49:10
+English test cue (UTF-8, no BOM)
+
+592
+00:49:15,000 --> 00:49:19,600
+QA EN #0592 - 00:49:15
+English test cue (UTF-8, no BOM)
+
+593
+00:49:20,000 --> 00:49:24,600
+QA EN #0593 - 00:49:20
+English test cue (UTF-8, no BOM)
+
+594
+00:49:25,000 --> 00:49:29,600
+QA EN #0594 - 00:49:25
+English test cue (UTF-8, no BOM)
+
+595
+00:49:30,000 --> 00:49:34,600
+QA EN #0595 - 00:49:30
+English test cue (UTF-8, no BOM)
+
+596
+00:49:35,000 --> 00:49:39,600
+QA EN #0596 - 00:49:35
+English test cue (UTF-8, no BOM)
+
+597
+00:49:40,000 --> 00:49:44,600
+QA EN #0597 - 00:49:40
+English test cue (UTF-8, no BOM)
+
+598
+00:49:45,000 --> 00:49:49,600
+QA EN #0598 - 00:49:45
+English test cue (UTF-8, no BOM)
+
+599
+00:49:50,000 --> 00:49:54,600
+QA EN #0599 - 00:49:50
+English test cue (UTF-8, no BOM)
+
+600
+00:49:55,000 --> 00:49:59,600
+QA EN #0600 - 00:49:55
+English test cue (UTF-8, no BOM)
+
+601
+00:50:00,000 --> 00:50:04,600
+QA EN #0601 - 00:50:00
+English test cue (UTF-8, no BOM)
+
+602
+00:50:05,000 --> 00:50:09,600
+QA EN #0602 - 00:50:05
+English test cue (UTF-8, no BOM)
+
+603
+00:50:10,000 --> 00:50:14,600
+QA EN #0603 - 00:50:10
+English test cue (UTF-8, no BOM)
+
+604
+00:50:15,000 --> 00:50:19,600
+QA EN #0604 - 00:50:15
+English test cue (UTF-8, no BOM)
+
+605
+00:50:20,000 --> 00:50:24,600
+QA EN #0605 - 00:50:20
+English test cue (UTF-8, no BOM)
+
+606
+00:50:25,000 --> 00:50:29,600
+QA EN #0606 - 00:50:25
+English test cue (UTF-8, no BOM)
+
+607
+00:50:30,000 --> 00:50:34,600
+QA EN #0607 - 00:50:30
+English test cue (UTF-8, no BOM)
+
+608
+00:50:35,000 --> 00:50:39,600
+QA EN #0608 - 00:50:35
+English test cue (UTF-8, no BOM)
+
+609
+00:50:40,000 --> 00:50:44,600
+QA EN #0609 - 00:50:40
+English test cue (UTF-8, no BOM)
+
+610
+00:50:45,000 --> 00:50:49,600
+QA EN #0610 - 00:50:45
+English test cue (UTF-8, no BOM)
+
+611
+00:50:50,000 --> 00:50:54,600
+QA EN #0611 - 00:50:50
+English test cue (UTF-8, no BOM)
+
+612
+00:50:55,000 --> 00:50:59,600
+QA EN #0612 - 00:50:55
+English test cue (UTF-8, no BOM)
+
+613
+00:51:00,000 --> 00:51:04,600
+QA EN #0613 - 00:51:00
+English test cue (UTF-8, no BOM)
+
+614
+00:51:05,000 --> 00:51:09,600
+QA EN #0614 - 00:51:05
+English test cue (UTF-8, no BOM)
+
+615
+00:51:10,000 --> 00:51:14,600
+QA EN #0615 - 00:51:10
+English test cue (UTF-8, no BOM)
+
+616
+00:51:15,000 --> 00:51:19,600
+QA EN #0616 - 00:51:15
+English test cue (UTF-8, no BOM)
+
+617
+00:51:20,000 --> 00:51:24,600
+QA EN #0617 - 00:51:20
+English test cue (UTF-8, no BOM)
+
+618
+00:51:25,000 --> 00:51:29,600
+QA EN #0618 - 00:51:25
+English test cue (UTF-8, no BOM)
+
+619
+00:51:30,000 --> 00:51:34,600
+QA EN #0619 - 00:51:30
+English test cue (UTF-8, no BOM)
+
+620
+00:51:35,000 --> 00:51:39,600
+QA EN #0620 - 00:51:35
+English test cue (UTF-8, no BOM)
+
+621
+00:51:40,000 --> 00:51:44,600
+QA EN #0621 - 00:51:40
+English test cue (UTF-8, no BOM)
+
+622
+00:51:45,000 --> 00:51:49,600
+QA EN #0622 - 00:51:45
+English test cue (UTF-8, no BOM)
+
+623
+00:51:50,000 --> 00:51:54,600
+QA EN #0623 - 00:51:50
+English test cue (UTF-8, no BOM)
+
+624
+00:51:55,000 --> 00:51:59,600
+QA EN #0624 - 00:51:55
+English test cue (UTF-8, no BOM)
+
+625
+00:52:00,000 --> 00:52:04,600
+QA EN #0625 - 00:52:00
+English test cue (UTF-8, no BOM)
+
+626
+00:52:05,000 --> 00:52:09,600
+QA EN #0626 - 00:52:05
+English test cue (UTF-8, no BOM)
+
+627
+00:52:10,000 --> 00:52:14,600
+QA EN #0627 - 00:52:10
+English test cue (UTF-8, no BOM)
+
+628
+00:52:15,000 --> 00:52:19,600
+QA EN #0628 - 00:52:15
+English test cue (UTF-8, no BOM)
+
+629
+00:52:20,000 --> 00:52:24,600
+QA EN #0629 - 00:52:20
+English test cue (UTF-8, no BOM)
+
+630
+00:52:25,000 --> 00:52:29,600
+QA EN #0630 - 00:52:25
+English test cue (UTF-8, no BOM)
+
+631
+00:52:30,000 --> 00:52:34,600
+QA EN #0631 - 00:52:30
+English test cue (UTF-8, no BOM)
+
+632
+00:52:35,000 --> 00:52:39,600
+QA EN #0632 - 00:52:35
+English test cue (UTF-8, no BOM)
+
+633
+00:52:40,000 --> 00:52:44,600
+QA EN #0633 - 00:52:40
+English test cue (UTF-8, no BOM)
+
+634
+00:52:45,000 --> 00:52:49,600
+QA EN #0634 - 00:52:45
+English test cue (UTF-8, no BOM)
+
+635
+00:52:50,000 --> 00:52:54,600
+QA EN #0635 - 00:52:50
+English test cue (UTF-8, no BOM)
+
+636
+00:52:55,000 --> 00:52:59,600
+QA EN #0636 - 00:52:55
+English test cue (UTF-8, no BOM)
+
+637
+00:53:00,000 --> 00:53:04,600
+QA EN #0637 - 00:53:00
+English test cue (UTF-8, no BOM)
+
+638
+00:53:05,000 --> 00:53:09,600
+QA EN #0638 - 00:53:05
+English test cue (UTF-8, no BOM)
+
+639
+00:53:10,000 --> 00:53:14,600
+QA EN #0639 - 00:53:10
+English test cue (UTF-8, no BOM)
+
+640
+00:53:15,000 --> 00:53:19,600
+QA EN #0640 - 00:53:15
+English test cue (UTF-8, no BOM)
+
+641
+00:53:20,000 --> 00:53:24,600
+QA EN #0641 - 00:53:20
+English test cue (UTF-8, no BOM)
+
+642
+00:53:25,000 --> 00:53:29,600
+QA EN #0642 - 00:53:25
+English test cue (UTF-8, no BOM)
+
+643
+00:53:30,000 --> 00:53:34,600
+QA EN #0643 - 00:53:30
+English test cue (UTF-8, no BOM)
+
+644
+00:53:35,000 --> 00:53:39,600
+QA EN #0644 - 00:53:35
+English test cue (UTF-8, no BOM)
+
+645
+00:53:40,000 --> 00:53:44,600
+QA EN #0645 - 00:53:40
+English test cue (UTF-8, no BOM)
+
+646
+00:53:45,000 --> 00:53:49,600
+QA EN #0646 - 00:53:45
+English test cue (UTF-8, no BOM)
+
+647
+00:53:50,000 --> 00:53:54,600
+QA EN #0647 - 00:53:50
+English test cue (UTF-8, no BOM)
+
+648
+00:53:55,000 --> 00:53:59,600
+QA EN #0648 - 00:53:55
+English test cue (UTF-8, no BOM)
+
+649
+00:54:00,000 --> 00:54:04,600
+QA EN #0649 - 00:54:00
+English test cue (UTF-8, no BOM)
+
+650
+00:54:05,000 --> 00:54:09,600
+QA EN #0650 - 00:54:05
+English test cue (UTF-8, no BOM)
+
+651
+00:54:10,000 --> 00:54:14,600
+QA EN #0651 - 00:54:10
+English test cue (UTF-8, no BOM)
+
+652
+00:54:15,000 --> 00:54:19,600
+QA EN #0652 - 00:54:15
+English test cue (UTF-8, no BOM)
+
+653
+00:54:20,000 --> 00:54:24,600
+QA EN #0653 - 00:54:20
+English test cue (UTF-8, no BOM)
+
+654
+00:54:25,000 --> 00:54:29,600
+QA EN #0654 - 00:54:25
+English test cue (UTF-8, no BOM)
+
+655
+00:54:30,000 --> 00:54:34,600
+QA EN #0655 - 00:54:30
+English test cue (UTF-8, no BOM)
+
+656
+00:54:35,000 --> 00:54:39,600
+QA EN #0656 - 00:54:35
+English test cue (UTF-8, no BOM)
+
+657
+00:54:40,000 --> 00:54:44,600
+QA EN #0657 - 00:54:40
+English test cue (UTF-8, no BOM)
+
+658
+00:54:45,000 --> 00:54:49,600
+QA EN #0658 - 00:54:45
+English test cue (UTF-8, no BOM)
+
+659
+00:54:50,000 --> 00:54:54,600
+QA EN #0659 - 00:54:50
+English test cue (UTF-8, no BOM)
+
+660
+00:54:55,000 --> 00:54:59,600
+QA EN #0660 - 00:54:55
+English test cue (UTF-8, no BOM)
+
+661
+00:55:00,000 --> 00:55:04,600
+QA EN #0661 - 00:55:00
+English test cue (UTF-8, no BOM)
+
+662
+00:55:05,000 --> 00:55:09,600
+QA EN #0662 - 00:55:05
+English test cue (UTF-8, no BOM)
+
+663
+00:55:10,000 --> 00:55:14,600
+QA EN #0663 - 00:55:10
+English test cue (UTF-8, no BOM)
+
+664
+00:55:15,000 --> 00:55:19,600
+QA EN #0664 - 00:55:15
+English test cue (UTF-8, no BOM)
+
+665
+00:55:20,000 --> 00:55:24,600
+QA EN #0665 - 00:55:20
+English test cue (UTF-8, no BOM)
+
+666
+00:55:25,000 --> 00:55:29,600
+QA EN #0666 - 00:55:25
+English test cue (UTF-8, no BOM)
+
+667
+00:55:30,000 --> 00:55:34,600
+QA EN #0667 - 00:55:30
+English test cue (UTF-8, no BOM)
+
+668
+00:55:35,000 --> 00:55:39,600
+QA EN #0668 - 00:55:35
+English test cue (UTF-8, no BOM)
+
+669
+00:55:40,000 --> 00:55:44,600
+QA EN #0669 - 00:55:40
+English test cue (UTF-8, no BOM)
+
+670
+00:55:45,000 --> 00:55:49,600
+QA EN #0670 - 00:55:45
+English test cue (UTF-8, no BOM)
+
+671
+00:55:50,000 --> 00:55:54,600
+QA EN #0671 - 00:55:50
+English test cue (UTF-8, no BOM)
+
+672
+00:55:55,000 --> 00:55:59,600
+QA EN #0672 - 00:55:55
+English test cue (UTF-8, no BOM)
+
+673
+00:56:00,000 --> 00:56:04,600
+QA EN #0673 - 00:56:00
+English test cue (UTF-8, no BOM)
+
+674
+00:56:05,000 --> 00:56:09,600
+QA EN #0674 - 00:56:05
+English test cue (UTF-8, no BOM)
+
+675
+00:56:10,000 --> 00:56:14,600
+QA EN #0675 - 00:56:10
+English test cue (UTF-8, no BOM)
+
+676
+00:56:15,000 --> 00:56:19,600
+QA EN #0676 - 00:56:15
+English test cue (UTF-8, no BOM)
+
+677
+00:56:20,000 --> 00:56:24,600
+QA EN #0677 - 00:56:20
+English test cue (UTF-8, no BOM)
+
+678
+00:56:25,000 --> 00:56:29,600
+QA EN #0678 - 00:56:25
+English test cue (UTF-8, no BOM)
+
+679
+00:56:30,000 --> 00:56:34,600
+QA EN #0679 - 00:56:30
+English test cue (UTF-8, no BOM)
+
+680
+00:56:35,000 --> 00:56:39,600
+QA EN #0680 - 00:56:35
+English test cue (UTF-8, no BOM)
+
+681
+00:56:40,000 --> 00:56:44,600
+QA EN #0681 - 00:56:40
+English test cue (UTF-8, no BOM)
+
+682
+00:56:45,000 --> 00:56:49,600
+QA EN #0682 - 00:56:45
+English test cue (UTF-8, no BOM)
+
+683
+00:56:50,000 --> 00:56:54,600
+QA EN #0683 - 00:56:50
+English test cue (UTF-8, no BOM)
+
+684
+00:56:55,000 --> 00:56:59,600
+QA EN #0684 - 00:56:55
+English test cue (UTF-8, no BOM)
+
+685
+00:57:00,000 --> 00:57:04,600
+QA EN #0685 - 00:57:00
+English test cue (UTF-8, no BOM)
+
+686
+00:57:05,000 --> 00:57:09,600
+QA EN #0686 - 00:57:05
+English test cue (UTF-8, no BOM)
+
+687
+00:57:10,000 --> 00:57:14,600
+QA EN #0687 - 00:57:10
+English test cue (UTF-8, no BOM)
+
+688
+00:57:15,000 --> 00:57:19,600
+QA EN #0688 - 00:57:15
+English test cue (UTF-8, no BOM)
+
+689
+00:57:20,000 --> 00:57:24,600
+QA EN #0689 - 00:57:20
+English test cue (UTF-8, no BOM)
+
+690
+00:57:25,000 --> 00:57:29,600
+QA EN #0690 - 00:57:25
+English test cue (UTF-8, no BOM)
+
+691
+00:57:30,000 --> 00:57:34,600
+QA EN #0691 - 00:57:30
+English test cue (UTF-8, no BOM)
+
+692
+00:57:35,000 --> 00:57:39,600
+QA EN #0692 - 00:57:35
+English test cue (UTF-8, no BOM)
+
+693
+00:57:40,000 --> 00:57:44,600
+QA EN #0693 - 00:57:40
+English test cue (UTF-8, no BOM)
+
+694
+00:57:45,000 --> 00:57:49,600
+QA EN #0694 - 00:57:45
+English test cue (UTF-8, no BOM)
+
+695
+00:57:50,000 --> 00:57:54,600
+QA EN #0695 - 00:57:50
+English test cue (UTF-8, no BOM)
+
+696
+00:57:55,000 --> 00:57:59,600
+QA EN #0696 - 00:57:55
+English test cue (UTF-8, no BOM)
+
+697
+00:58:00,000 --> 00:58:04,600
+QA EN #0697 - 00:58:00
+English test cue (UTF-8, no BOM)
+
+698
+00:58:05,000 --> 00:58:09,600
+QA EN #0698 - 00:58:05
+English test cue (UTF-8, no BOM)
+
+699
+00:58:10,000 --> 00:58:14,600
+QA EN #0699 - 00:58:10
+English test cue (UTF-8, no BOM)
+
+700
+00:58:15,000 --> 00:58:19,600
+QA EN #0700 - 00:58:15
+English test cue (UTF-8, no BOM)
+
+701
+00:58:20,000 --> 00:58:24,600
+QA EN #0701 - 00:58:20
+English test cue (UTF-8, no BOM)
+
+702
+00:58:25,000 --> 00:58:29,600
+QA EN #0702 - 00:58:25
+English test cue (UTF-8, no BOM)
+
+703
+00:58:30,000 --> 00:58:34,600
+QA EN #0703 - 00:58:30
+English test cue (UTF-8, no BOM)
+
+704
+00:58:35,000 --> 00:58:39,600
+QA EN #0704 - 00:58:35
+English test cue (UTF-8, no BOM)
+
+705
+00:58:40,000 --> 00:58:44,600
+QA EN #0705 - 00:58:40
+English test cue (UTF-8, no BOM)
+
+706
+00:58:45,000 --> 00:58:49,600
+QA EN #0706 - 00:58:45
+English test cue (UTF-8, no BOM)
+
+707
+00:58:50,000 --> 00:58:54,600
+QA EN #0707 - 00:58:50
+English test cue (UTF-8, no BOM)
+
+708
+00:58:55,000 --> 00:58:59,600
+QA EN #0708 - 00:58:55
+English test cue (UTF-8, no BOM)
+
+709
+00:59:00,000 --> 00:59:04,600
+QA EN #0709 - 00:59:00
+English test cue (UTF-8, no BOM)
+
+710
+00:59:05,000 --> 00:59:09,600
+QA EN #0710 - 00:59:05
+English test cue (UTF-8, no BOM)
+
+711
+00:59:10,000 --> 00:59:14,600
+QA EN #0711 - 00:59:10
+English test cue (UTF-8, no BOM)
+
+712
+00:59:15,000 --> 00:59:19,600
+QA EN #0712 - 00:59:15
+English test cue (UTF-8, no BOM)
+
+713
+00:59:20,000 --> 00:59:24,600
+QA EN #0713 - 00:59:20
+English test cue (UTF-8, no BOM)
+
+714
+00:59:25,000 --> 00:59:29,600
+QA EN #0714 - 00:59:25
+English test cue (UTF-8, no BOM)
+
+715
+00:59:30,000 --> 00:59:34,600
+QA EN #0715 - 00:59:30
+English test cue (UTF-8, no BOM)
+
+716
+00:59:35,000 --> 00:59:39,600
+QA EN #0716 - 00:59:35
+English test cue (UTF-8, no BOM)
+
+717
+00:59:40,000 --> 00:59:44,600
+QA EN #0717 - 00:59:40
+English test cue (UTF-8, no BOM)
+
+718
+00:59:45,000 --> 00:59:49,600
+QA EN #0718 - 00:59:45
+English test cue (UTF-8, no BOM)
+
+719
+00:59:50,000 --> 00:59:54,600
+QA EN #0719 - 00:59:50
+English test cue (UTF-8, no BOM)
+
+720
+00:59:55,000 --> 00:59:59,600
+QA EN #0720 - 00:59:55
+English test cue (UTF-8, no BOM)
+
+721
+01:00:00,000 --> 01:00:04,600
+QA EN #0721 - 01:00:00
+English test cue (UTF-8, no BOM)
+
+722
+01:00:05,000 --> 01:00:09,600
+QA EN #0722 - 01:00:05
+English test cue (UTF-8, no BOM)
+
+723
+01:00:10,000 --> 01:00:14,600
+QA EN #0723 - 01:00:10
+English test cue (UTF-8, no BOM)
+
+724
+01:00:15,000 --> 01:00:19,600
+QA EN #0724 - 01:00:15
+English test cue (UTF-8, no BOM)
+
+725
+01:00:20,000 --> 01:00:24,600
+QA EN #0725 - 01:00:20
+English test cue (UTF-8, no BOM)
+
+726
+01:00:25,000 --> 01:00:29,600
+QA EN #0726 - 01:00:25
+English test cue (UTF-8, no BOM)
+
+727
+01:00:30,000 --> 01:00:34,600
+QA EN #0727 - 01:00:30
+English test cue (UTF-8, no BOM)
+
+728
+01:00:35,000 --> 01:00:39,600
+QA EN #0728 - 01:00:35
+English test cue (UTF-8, no BOM)
+
+729
+01:00:40,000 --> 01:00:44,600
+QA EN #0729 - 01:00:40
+English test cue (UTF-8, no BOM)
+
+730
+01:00:45,000 --> 01:00:49,600
+QA EN #0730 - 01:00:45
+English test cue (UTF-8, no BOM)
+
+731
+01:00:50,000 --> 01:00:54,600
+QA EN #0731 - 01:00:50
+English test cue (UTF-8, no BOM)
+
+732
+01:00:55,000 --> 01:00:59,600
+QA EN #0732 - 01:00:55
+English test cue (UTF-8, no BOM)
+
+733
+01:01:00,000 --> 01:01:04,600
+QA EN #0733 - 01:01:00
+English test cue (UTF-8, no BOM)
+
+734
+01:01:05,000 --> 01:01:09,600
+QA EN #0734 - 01:01:05
+English test cue (UTF-8, no BOM)
+
+735
+01:01:10,000 --> 01:01:14,600
+QA EN #0735 - 01:01:10
+English test cue (UTF-8, no BOM)
+
+736
+01:01:15,000 --> 01:01:19,600
+QA EN #0736 - 01:01:15
+English test cue (UTF-8, no BOM)
+
+737
+01:01:20,000 --> 01:01:24,600
+QA EN #0737 - 01:01:20
+English test cue (UTF-8, no BOM)
+
+738
+01:01:25,000 --> 01:01:29,600
+QA EN #0738 - 01:01:25
+English test cue (UTF-8, no BOM)
+
+739
+01:01:30,000 --> 01:01:34,600
+QA EN #0739 - 01:01:30
+English test cue (UTF-8, no BOM)
+
+740
+01:01:35,000 --> 01:01:39,600
+QA EN #0740 - 01:01:35
+English test cue (UTF-8, no BOM)
+
+741
+01:01:40,000 --> 01:01:44,600
+QA EN #0741 - 01:01:40
+English test cue (UTF-8, no BOM)
+
+742
+01:01:45,000 --> 01:01:49,600
+QA EN #0742 - 01:01:45
+English test cue (UTF-8, no BOM)
+
+743
+01:01:50,000 --> 01:01:54,600
+QA EN #0743 - 01:01:50
+English test cue (UTF-8, no BOM)
+
+744
+01:01:55,000 --> 01:01:59,600
+QA EN #0744 - 01:01:55
+English test cue (UTF-8, no BOM)
+
+745
+01:02:00,000 --> 01:02:04,600
+QA EN #0745 - 01:02:00
+English test cue (UTF-8, no BOM)
+
+746
+01:02:05,000 --> 01:02:09,600
+QA EN #0746 - 01:02:05
+English test cue (UTF-8, no BOM)
+
+747
+01:02:10,000 --> 01:02:14,600
+QA EN #0747 - 01:02:10
+English test cue (UTF-8, no BOM)
+
+748
+01:02:15,000 --> 01:02:19,600
+QA EN #0748 - 01:02:15
+English test cue (UTF-8, no BOM)
+
+749
+01:02:20,000 --> 01:02:24,600
+QA EN #0749 - 01:02:20
+English test cue (UTF-8, no BOM)
+
+750
+01:02:25,000 --> 01:02:29,600
+QA EN #0750 - 01:02:25
+English test cue (UTF-8, no BOM)
+
+751
+01:02:30,000 --> 01:02:34,600
+QA EN #0751 - 01:02:30
+English test cue (UTF-8, no BOM)
+
+752
+01:02:35,000 --> 01:02:39,600
+QA EN #0752 - 01:02:35
+English test cue (UTF-8, no BOM)
+
+753
+01:02:40,000 --> 01:02:44,600
+QA EN #0753 - 01:02:40
+English test cue (UTF-8, no BOM)
+
+754
+01:02:45,000 --> 01:02:49,600
+QA EN #0754 - 01:02:45
+English test cue (UTF-8, no BOM)
+
+755
+01:02:50,000 --> 01:02:54,600
+QA EN #0755 - 01:02:50
+English test cue (UTF-8, no BOM)
+
+756
+01:02:55,000 --> 01:02:59,600
+QA EN #0756 - 01:02:55
+English test cue (UTF-8, no BOM)
+
+757
+01:03:00,000 --> 01:03:04,600
+QA EN #0757 - 01:03:00
+English test cue (UTF-8, no BOM)
+
+758
+01:03:05,000 --> 01:03:09,600
+QA EN #0758 - 01:03:05
+English test cue (UTF-8, no BOM)
+
+759
+01:03:10,000 --> 01:03:14,600
+QA EN #0759 - 01:03:10
+English test cue (UTF-8, no BOM)
+
+760
+01:03:15,000 --> 01:03:19,600
+QA EN #0760 - 01:03:15
+English test cue (UTF-8, no BOM)
+
+761
+01:03:20,000 --> 01:03:24,600
+QA EN #0761 - 01:03:20
+English test cue (UTF-8, no BOM)
+
+762
+01:03:25,000 --> 01:03:29,600
+QA EN #0762 - 01:03:25
+English test cue (UTF-8, no BOM)
+
+763
+01:03:30,000 --> 01:03:34,600
+QA EN #0763 - 01:03:30
+English test cue (UTF-8, no BOM)
+
+764
+01:03:35,000 --> 01:03:39,600
+QA EN #0764 - 01:03:35
+English test cue (UTF-8, no BOM)
+
+765
+01:03:40,000 --> 01:03:44,600
+QA EN #0765 - 01:03:40
+English test cue (UTF-8, no BOM)
+
+766
+01:03:45,000 --> 01:03:49,600
+QA EN #0766 - 01:03:45
+English test cue (UTF-8, no BOM)
+
+767
+01:03:50,000 --> 01:03:54,600
+QA EN #0767 - 01:03:50
+English test cue (UTF-8, no BOM)
+
+768
+01:03:55,000 --> 01:03:59,600
+QA EN #0768 - 01:03:55
+English test cue (UTF-8, no BOM)
+
+769
+01:04:00,000 --> 01:04:04,600
+QA EN #0769 - 01:04:00
+English test cue (UTF-8, no BOM)
+
+770
+01:04:05,000 --> 01:04:09,600
+QA EN #0770 - 01:04:05
+English test cue (UTF-8, no BOM)
+
+771
+01:04:10,000 --> 01:04:14,600
+QA EN #0771 - 01:04:10
+English test cue (UTF-8, no BOM)
+
+772
+01:04:15,000 --> 01:04:19,600
+QA EN #0772 - 01:04:15
+English test cue (UTF-8, no BOM)
+
+773
+01:04:20,000 --> 01:04:24,600
+QA EN #0773 - 01:04:20
+English test cue (UTF-8, no BOM)
+
+774
+01:04:25,000 --> 01:04:29,600
+QA EN #0774 - 01:04:25
+English test cue (UTF-8, no BOM)
+
+775
+01:04:30,000 --> 01:04:34,600
+QA EN #0775 - 01:04:30
+English test cue (UTF-8, no BOM)
+
+776
+01:04:35,000 --> 01:04:39,600
+QA EN #0776 - 01:04:35
+English test cue (UTF-8, no BOM)
+
+777
+01:04:40,000 --> 01:04:44,600
+QA EN #0777 - 01:04:40
+English test cue (UTF-8, no BOM)
+
+778
+01:04:45,000 --> 01:04:49,600
+QA EN #0778 - 01:04:45
+English test cue (UTF-8, no BOM)
+
+779
+01:04:50,000 --> 01:04:54,600
+QA EN #0779 - 01:04:50
+English test cue (UTF-8, no BOM)
+
+780
+01:04:55,000 --> 01:04:59,600
+QA EN #0780 - 01:04:55
+English test cue (UTF-8, no BOM)
+
+781
+01:05:00,000 --> 01:05:04,600
+QA EN #0781 - 01:05:00
+English test cue (UTF-8, no BOM)
+
+782
+01:05:05,000 --> 01:05:09,600
+QA EN #0782 - 01:05:05
+English test cue (UTF-8, no BOM)
+
+783
+01:05:10,000 --> 01:05:14,600
+QA EN #0783 - 01:05:10
+English test cue (UTF-8, no BOM)
+
+784
+01:05:15,000 --> 01:05:19,600
+QA EN #0784 - 01:05:15
+English test cue (UTF-8, no BOM)
+
+785
+01:05:20,000 --> 01:05:24,600
+QA EN #0785 - 01:05:20
+English test cue (UTF-8, no BOM)
+
+786
+01:05:25,000 --> 01:05:29,600
+QA EN #0786 - 01:05:25
+English test cue (UTF-8, no BOM)
+
+787
+01:05:30,000 --> 01:05:34,600
+QA EN #0787 - 01:05:30
+English test cue (UTF-8, no BOM)
+
+788
+01:05:35,000 --> 01:05:39,600
+QA EN #0788 - 01:05:35
+English test cue (UTF-8, no BOM)
+
+789
+01:05:40,000 --> 01:05:44,600
+QA EN #0789 - 01:05:40
+English test cue (UTF-8, no BOM)
+
+790
+01:05:45,000 --> 01:05:49,600
+QA EN #0790 - 01:05:45
+English test cue (UTF-8, no BOM)
+
+791
+01:05:50,000 --> 01:05:54,600
+QA EN #0791 - 01:05:50
+English test cue (UTF-8, no BOM)
+
+792
+01:05:55,000 --> 01:05:59,600
+QA EN #0792 - 01:05:55
+English test cue (UTF-8, no BOM)
+
+793
+01:06:00,000 --> 01:06:04,600
+QA EN #0793 - 01:06:00
+English test cue (UTF-8, no BOM)
+
+794
+01:06:05,000 --> 01:06:09,600
+QA EN #0794 - 01:06:05
+English test cue (UTF-8, no BOM)
+
+795
+01:06:10,000 --> 01:06:14,600
+QA EN #0795 - 01:06:10
+English test cue (UTF-8, no BOM)
+
+796
+01:06:15,000 --> 01:06:19,600
+QA EN #0796 - 01:06:15
+English test cue (UTF-8, no BOM)
+
+797
+01:06:20,000 --> 01:06:24,600
+QA EN #0797 - 01:06:20
+English test cue (UTF-8, no BOM)
+
+798
+01:06:25,000 --> 01:06:29,600
+QA EN #0798 - 01:06:25
+English test cue (UTF-8, no BOM)
+
+799
+01:06:30,000 --> 01:06:34,600
+QA EN #0799 - 01:06:30
+English test cue (UTF-8, no BOM)
+
+800
+01:06:35,000 --> 01:06:39,600
+QA EN #0800 - 01:06:35
+English test cue (UTF-8, no BOM)
+
+801
+01:06:40,000 --> 01:06:44,600
+QA EN #0801 - 01:06:40
+English test cue (UTF-8, no BOM)
+
+802
+01:06:45,000 --> 01:06:49,600
+QA EN #0802 - 01:06:45
+English test cue (UTF-8, no BOM)
+
+803
+01:06:50,000 --> 01:06:54,600
+QA EN #0803 - 01:06:50
+English test cue (UTF-8, no BOM)
+
+804
+01:06:55,000 --> 01:06:59,600
+QA EN #0804 - 01:06:55
+English test cue (UTF-8, no BOM)
+
+805
+01:07:00,000 --> 01:07:04,600
+QA EN #0805 - 01:07:00
+English test cue (UTF-8, no BOM)
+
+806
+01:07:05,000 --> 01:07:09,600
+QA EN #0806 - 01:07:05
+English test cue (UTF-8, no BOM)
+
+807
+01:07:10,000 --> 01:07:14,600
+QA EN #0807 - 01:07:10
+English test cue (UTF-8, no BOM)
+
+808
+01:07:15,000 --> 01:07:19,600
+QA EN #0808 - 01:07:15
+English test cue (UTF-8, no BOM)
+
+809
+01:07:20,000 --> 01:07:24,600
+QA EN #0809 - 01:07:20
+English test cue (UTF-8, no BOM)
+
+810
+01:07:25,000 --> 01:07:29,600
+QA EN #0810 - 01:07:25
+English test cue (UTF-8, no BOM)
+
+811
+01:07:30,000 --> 01:07:34,600
+QA EN #0811 - 01:07:30
+English test cue (UTF-8, no BOM)
+
+812
+01:07:35,000 --> 01:07:39,600
+QA EN #0812 - 01:07:35
+English test cue (UTF-8, no BOM)
+
+813
+01:07:40,000 --> 01:07:44,600
+QA EN #0813 - 01:07:40
+English test cue (UTF-8, no BOM)
+
+814
+01:07:45,000 --> 01:07:49,600
+QA EN #0814 - 01:07:45
+English test cue (UTF-8, no BOM)
+
+815
+01:07:50,000 --> 01:07:54,600
+QA EN #0815 - 01:07:50
+English test cue (UTF-8, no BOM)
+
+816
+01:07:55,000 --> 01:07:59,600
+QA EN #0816 - 01:07:55
+English test cue (UTF-8, no BOM)
+
+817
+01:08:00,000 --> 01:08:04,600
+QA EN #0817 - 01:08:00
+English test cue (UTF-8, no BOM)
+
+818
+01:08:05,000 --> 01:08:09,600
+QA EN #0818 - 01:08:05
+English test cue (UTF-8, no BOM)
+
+819
+01:08:10,000 --> 01:08:14,600
+QA EN #0819 - 01:08:10
+English test cue (UTF-8, no BOM)
+
+820
+01:08:15,000 --> 01:08:19,600
+QA EN #0820 - 01:08:15
+English test cue (UTF-8, no BOM)
+
+821
+01:08:20,000 --> 01:08:24,600
+QA EN #0821 - 01:08:20
+English test cue (UTF-8, no BOM)
+
+822
+01:08:25,000 --> 01:08:29,600
+QA EN #0822 - 01:08:25
+English test cue (UTF-8, no BOM)
+
+823
+01:08:30,000 --> 01:08:34,600
+QA EN #0823 - 01:08:30
+English test cue (UTF-8, no BOM)
+
+824
+01:08:35,000 --> 01:08:39,600
+QA EN #0824 - 01:08:35
+English test cue (UTF-8, no BOM)
+
+825
+01:08:40,000 --> 01:08:44,600
+QA EN #0825 - 01:08:40
+English test cue (UTF-8, no BOM)
+
+826
+01:08:45,000 --> 01:08:49,600
+QA EN #0826 - 01:08:45
+English test cue (UTF-8, no BOM)
+
+827
+01:08:50,000 --> 01:08:54,600
+QA EN #0827 - 01:08:50
+English test cue (UTF-8, no BOM)
+
+828
+01:08:55,000 --> 01:08:59,600
+QA EN #0828 - 01:08:55
+English test cue (UTF-8, no BOM)
+
+829
+01:09:00,000 --> 01:09:04,600
+QA EN #0829 - 01:09:00
+English test cue (UTF-8, no BOM)
+
+830
+01:09:05,000 --> 01:09:09,600
+QA EN #0830 - 01:09:05
+English test cue (UTF-8, no BOM)
+
+831
+01:09:10,000 --> 01:09:14,600
+QA EN #0831 - 01:09:10
+English test cue (UTF-8, no BOM)
+
+832
+01:09:15,000 --> 01:09:19,600
+QA EN #0832 - 01:09:15
+English test cue (UTF-8, no BOM)
+
+833
+01:09:20,000 --> 01:09:24,600
+QA EN #0833 - 01:09:20
+English test cue (UTF-8, no BOM)
+
+834
+01:09:25,000 --> 01:09:29,600
+QA EN #0834 - 01:09:25
+English test cue (UTF-8, no BOM)
+
+835
+01:09:30,000 --> 01:09:34,600
+QA EN #0835 - 01:09:30
+English test cue (UTF-8, no BOM)
+
+836
+01:09:35,000 --> 01:09:39,600
+QA EN #0836 - 01:09:35
+English test cue (UTF-8, no BOM)
+
+837
+01:09:40,000 --> 01:09:44,600
+QA EN #0837 - 01:09:40
+English test cue (UTF-8, no BOM)
+
+838
+01:09:45,000 --> 01:09:49,600
+QA EN #0838 - 01:09:45
+English test cue (UTF-8, no BOM)
+
+839
+01:09:50,000 --> 01:09:54,600
+QA EN #0839 - 01:09:50
+English test cue (UTF-8, no BOM)
+
+840
+01:09:55,000 --> 01:09:59,600
+QA EN #0840 - 01:09:55
+English test cue (UTF-8, no BOM)
+
+841
+01:10:00,000 --> 01:10:04,600
+QA EN #0841 - 01:10:00
+English test cue (UTF-8, no BOM)
+
+842
+01:10:05,000 --> 01:10:09,600
+QA EN #0842 - 01:10:05
+English test cue (UTF-8, no BOM)
+
+843
+01:10:10,000 --> 01:10:14,600
+QA EN #0843 - 01:10:10
+English test cue (UTF-8, no BOM)
+
+844
+01:10:15,000 --> 01:10:19,600
+QA EN #0844 - 01:10:15
+English test cue (UTF-8, no BOM)
+
+845
+01:10:20,000 --> 01:10:24,600
+QA EN #0845 - 01:10:20
+English test cue (UTF-8, no BOM)
+
+846
+01:10:25,000 --> 01:10:29,600
+QA EN #0846 - 01:10:25
+English test cue (UTF-8, no BOM)
+
+847
+01:10:30,000 --> 01:10:34,600
+QA EN #0847 - 01:10:30
+English test cue (UTF-8, no BOM)
+
+848
+01:10:35,000 --> 01:10:39,600
+QA EN #0848 - 01:10:35
+English test cue (UTF-8, no BOM)
+
+849
+01:10:40,000 --> 01:10:44,600
+QA EN #0849 - 01:10:40
+English test cue (UTF-8, no BOM)
+
+850
+01:10:45,000 --> 01:10:49,600
+QA EN #0850 - 01:10:45
+English test cue (UTF-8, no BOM)
+
+851
+01:10:50,000 --> 01:10:54,600
+QA EN #0851 - 01:10:50
+English test cue (UTF-8, no BOM)
+
+852
+01:10:55,000 --> 01:10:59,600
+QA EN #0852 - 01:10:55
+English test cue (UTF-8, no BOM)
+
+853
+01:11:00,000 --> 01:11:04,600
+QA EN #0853 - 01:11:00
+English test cue (UTF-8, no BOM)
+
+854
+01:11:05,000 --> 01:11:09,600
+QA EN #0854 - 01:11:05
+English test cue (UTF-8, no BOM)
+
+855
+01:11:10,000 --> 01:11:14,600
+QA EN #0855 - 01:11:10
+English test cue (UTF-8, no BOM)
+
+856
+01:11:15,000 --> 01:11:19,600
+QA EN #0856 - 01:11:15
+English test cue (UTF-8, no BOM)
+
+857
+01:11:20,000 --> 01:11:24,600
+QA EN #0857 - 01:11:20
+English test cue (UTF-8, no BOM)
+
+858
+01:11:25,000 --> 01:11:29,600
+QA EN #0858 - 01:11:25
+English test cue (UTF-8, no BOM)
+
+859
+01:11:30,000 --> 01:11:34,600
+QA EN #0859 - 01:11:30
+English test cue (UTF-8, no BOM)
+
+860
+01:11:35,000 --> 01:11:39,600
+QA EN #0860 - 01:11:35
+English test cue (UTF-8, no BOM)
+
+861
+01:11:40,000 --> 01:11:44,600
+QA EN #0861 - 01:11:40
+English test cue (UTF-8, no BOM)
+
+862
+01:11:45,000 --> 01:11:49,600
+QA EN #0862 - 01:11:45
+English test cue (UTF-8, no BOM)
+
+863
+01:11:50,000 --> 01:11:54,600
+QA EN #0863 - 01:11:50
+English test cue (UTF-8, no BOM)
+
+864
+01:11:55,000 --> 01:11:59,600
+QA EN #0864 - 01:11:55
+English test cue (UTF-8, no BOM)
+
+865
+01:12:00,000 --> 01:12:04,600
+QA EN #0865 - 01:12:00
+English test cue (UTF-8, no BOM)
+
+866
+01:12:05,000 --> 01:12:09,600
+QA EN #0866 - 01:12:05
+English test cue (UTF-8, no BOM)
+
+867
+01:12:10,000 --> 01:12:14,600
+QA EN #0867 - 01:12:10
+English test cue (UTF-8, no BOM)
+
+868
+01:12:15,000 --> 01:12:19,600
+QA EN #0868 - 01:12:15
+English test cue (UTF-8, no BOM)
+
+869
+01:12:20,000 --> 01:12:24,600
+QA EN #0869 - 01:12:20
+English test cue (UTF-8, no BOM)
+
+870
+01:12:25,000 --> 01:12:29,600
+QA EN #0870 - 01:12:25
+English test cue (UTF-8, no BOM)
+
+871
+01:12:30,000 --> 01:12:34,600
+QA EN #0871 - 01:12:30
+English test cue (UTF-8, no BOM)
+
+872
+01:12:35,000 --> 01:12:39,600
+QA EN #0872 - 01:12:35
+English test cue (UTF-8, no BOM)
+
+873
+01:12:40,000 --> 01:12:44,600
+QA EN #0873 - 01:12:40
+English test cue (UTF-8, no BOM)
+
+874
+01:12:45,000 --> 01:12:49,600
+QA EN #0874 - 01:12:45
+English test cue (UTF-8, no BOM)
+
+875
+01:12:50,000 --> 01:12:54,600
+QA EN #0875 - 01:12:50
+English test cue (UTF-8, no BOM)
+
+876
+01:12:55,000 --> 01:12:59,600
+QA EN #0876 - 01:12:55
+English test cue (UTF-8, no BOM)
+
+877
+01:13:00,000 --> 01:13:04,600
+QA EN #0877 - 01:13:00
+English test cue (UTF-8, no BOM)
+
+878
+01:13:05,000 --> 01:13:09,600
+QA EN #0878 - 01:13:05
+English test cue (UTF-8, no BOM)
+
+879
+01:13:10,000 --> 01:13:14,600
+QA EN #0879 - 01:13:10
+English test cue (UTF-8, no BOM)
+
+880
+01:13:15,000 --> 01:13:19,600
+QA EN #0880 - 01:13:15
+English test cue (UTF-8, no BOM)
+
+881
+01:13:20,000 --> 01:13:24,600
+QA EN #0881 - 01:13:20
+English test cue (UTF-8, no BOM)
+
+882
+01:13:25,000 --> 01:13:29,600
+QA EN #0882 - 01:13:25
+English test cue (UTF-8, no BOM)
+
+883
+01:13:30,000 --> 01:13:34,600
+QA EN #0883 - 01:13:30
+English test cue (UTF-8, no BOM)
+
+884
+01:13:35,000 --> 01:13:39,600
+QA EN #0884 - 01:13:35
+English test cue (UTF-8, no BOM)
+
+885
+01:13:40,000 --> 01:13:44,600
+QA EN #0885 - 01:13:40
+English test cue (UTF-8, no BOM)
+
+886
+01:13:45,000 --> 01:13:49,600
+QA EN #0886 - 01:13:45
+English test cue (UTF-8, no BOM)
+
+887
+01:13:50,000 --> 01:13:54,600
+QA EN #0887 - 01:13:50
+English test cue (UTF-8, no BOM)
+
+888
+01:13:55,000 --> 01:13:59,600
+QA EN #0888 - 01:13:55
+English test cue (UTF-8, no BOM)
+
+889
+01:14:00,000 --> 01:14:04,600
+QA EN #0889 - 01:14:00
+English test cue (UTF-8, no BOM)
+
+890
+01:14:05,000 --> 01:14:09,600
+QA EN #0890 - 01:14:05
+English test cue (UTF-8, no BOM)
+
+891
+01:14:10,000 --> 01:14:14,600
+QA EN #0891 - 01:14:10
+English test cue (UTF-8, no BOM)
+
+892
+01:14:15,000 --> 01:14:19,600
+QA EN #0892 - 01:14:15
+English test cue (UTF-8, no BOM)
+
+893
+01:14:20,000 --> 01:14:24,600
+QA EN #0893 - 01:14:20
+English test cue (UTF-8, no BOM)
+
+894
+01:14:25,000 --> 01:14:29,600
+QA EN #0894 - 01:14:25
+English test cue (UTF-8, no BOM)
+
+895
+01:14:30,000 --> 01:14:34,600
+QA EN #0895 - 01:14:30
+English test cue (UTF-8, no BOM)
+
+896
+01:14:35,000 --> 01:14:39,600
+QA EN #0896 - 01:14:35
+English test cue (UTF-8, no BOM)
+
+897
+01:14:40,000 --> 01:14:44,600
+QA EN #0897 - 01:14:40
+English test cue (UTF-8, no BOM)
+
+898
+01:14:45,000 --> 01:14:49,600
+QA EN #0898 - 01:14:45
+English test cue (UTF-8, no BOM)
+
+899
+01:14:50,000 --> 01:14:54,600
+QA EN #0899 - 01:14:50
+English test cue (UTF-8, no BOM)
+
+900
+01:14:55,000 --> 01:14:59,600
+QA EN #0900 - 01:14:55
+English test cue (UTF-8, no BOM)
+
+901
+01:15:00,000 --> 01:15:04,600
+QA EN #0901 - 01:15:00
+English test cue (UTF-8, no BOM)
+
+902
+01:15:05,000 --> 01:15:09,600
+QA EN #0902 - 01:15:05
+English test cue (UTF-8, no BOM)
+
+903
+01:15:10,000 --> 01:15:14,600
+QA EN #0903 - 01:15:10
+English test cue (UTF-8, no BOM)
+
+904
+01:15:15,000 --> 01:15:19,600
+QA EN #0904 - 01:15:15
+English test cue (UTF-8, no BOM)
+
+905
+01:15:20,000 --> 01:15:24,600
+QA EN #0905 - 01:15:20
+English test cue (UTF-8, no BOM)
+
+906
+01:15:25,000 --> 01:15:29,600
+QA EN #0906 - 01:15:25
+English test cue (UTF-8, no BOM)
+
+907
+01:15:30,000 --> 01:15:34,600
+QA EN #0907 - 01:15:30
+English test cue (UTF-8, no BOM)
+
+908
+01:15:35,000 --> 01:15:39,600
+QA EN #0908 - 01:15:35
+English test cue (UTF-8, no BOM)
+
+909
+01:15:40,000 --> 01:15:44,600
+QA EN #0909 - 01:15:40
+English test cue (UTF-8, no BOM)
+
+910
+01:15:45,000 --> 01:15:49,600
+QA EN #0910 - 01:15:45
+English test cue (UTF-8, no BOM)
+
+911
+01:15:50,000 --> 01:15:54,600
+QA EN #0911 - 01:15:50
+English test cue (UTF-8, no BOM)
+
+912
+01:15:55,000 --> 01:15:59,600
+QA EN #0912 - 01:15:55
+English test cue (UTF-8, no BOM)
+
+913
+01:16:00,000 --> 01:16:04,600
+QA EN #0913 - 01:16:00
+English test cue (UTF-8, no BOM)
+
+914
+01:16:05,000 --> 01:16:09,600
+QA EN #0914 - 01:16:05
+English test cue (UTF-8, no BOM)
+
+915
+01:16:10,000 --> 01:16:14,600
+QA EN #0915 - 01:16:10
+English test cue (UTF-8, no BOM)
+
+916
+01:16:15,000 --> 01:16:19,600
+QA EN #0916 - 01:16:15
+English test cue (UTF-8, no BOM)
+
+917
+01:16:20,000 --> 01:16:24,600
+QA EN #0917 - 01:16:20
+English test cue (UTF-8, no BOM)
+
+918
+01:16:25,000 --> 01:16:29,600
+QA EN #0918 - 01:16:25
+English test cue (UTF-8, no BOM)
+
+919
+01:16:30,000 --> 01:16:34,600
+QA EN #0919 - 01:16:30
+English test cue (UTF-8, no BOM)
+
+920
+01:16:35,000 --> 01:16:39,600
+QA EN #0920 - 01:16:35
+English test cue (UTF-8, no BOM)
+
+921
+01:16:40,000 --> 01:16:44,600
+QA EN #0921 - 01:16:40
+English test cue (UTF-8, no BOM)
+
+922
+01:16:45,000 --> 01:16:49,600
+QA EN #0922 - 01:16:45
+English test cue (UTF-8, no BOM)
+
+923
+01:16:50,000 --> 01:16:54,600
+QA EN #0923 - 01:16:50
+English test cue (UTF-8, no BOM)
+
+924
+01:16:55,000 --> 01:16:59,600
+QA EN #0924 - 01:16:55
+English test cue (UTF-8, no BOM)
+
+925
+01:17:00,000 --> 01:17:04,600
+QA EN #0925 - 01:17:00
+English test cue (UTF-8, no BOM)
+
+926
+01:17:05,000 --> 01:17:09,600
+QA EN #0926 - 01:17:05
+English test cue (UTF-8, no BOM)
+
+927
+01:17:10,000 --> 01:17:14,600
+QA EN #0927 - 01:17:10
+English test cue (UTF-8, no BOM)
+
+928
+01:17:15,000 --> 01:17:19,600
+QA EN #0928 - 01:17:15
+English test cue (UTF-8, no BOM)
+
+929
+01:17:20,000 --> 01:17:24,600
+QA EN #0929 - 01:17:20
+English test cue (UTF-8, no BOM)
+
+930
+01:17:25,000 --> 01:17:29,600
+QA EN #0930 - 01:17:25
+English test cue (UTF-8, no BOM)
+
+931
+01:17:30,000 --> 01:17:34,600
+QA EN #0931 - 01:17:30
+English test cue (UTF-8, no BOM)
+
+932
+01:17:35,000 --> 01:17:39,600
+QA EN #0932 - 01:17:35
+English test cue (UTF-8, no BOM)
+
+933
+01:17:40,000 --> 01:17:44,600
+QA EN #0933 - 01:17:40
+English test cue (UTF-8, no BOM)
+
+934
+01:17:45,000 --> 01:17:49,600
+QA EN #0934 - 01:17:45
+English test cue (UTF-8, no BOM)
+
+935
+01:17:50,000 --> 01:17:54,600
+QA EN #0935 - 01:17:50
+English test cue (UTF-8, no BOM)
+
+936
+01:17:55,000 --> 01:17:59,600
+QA EN #0936 - 01:17:55
+English test cue (UTF-8, no BOM)
+
+937
+01:18:00,000 --> 01:18:04,600
+QA EN #0937 - 01:18:00
+English test cue (UTF-8, no BOM)
+
+938
+01:18:05,000 --> 01:18:09,600
+QA EN #0938 - 01:18:05
+English test cue (UTF-8, no BOM)
+
+939
+01:18:10,000 --> 01:18:14,600
+QA EN #0939 - 01:18:10
+English test cue (UTF-8, no BOM)
+
+940
+01:18:15,000 --> 01:18:19,600
+QA EN #0940 - 01:18:15
+English test cue (UTF-8, no BOM)
+
+941
+01:18:20,000 --> 01:18:24,600
+QA EN #0941 - 01:18:20
+English test cue (UTF-8, no BOM)
+
+942
+01:18:25,000 --> 01:18:29,600
+QA EN #0942 - 01:18:25
+English test cue (UTF-8, no BOM)
+
+943
+01:18:30,000 --> 01:18:34,600
+QA EN #0943 - 01:18:30
+English test cue (UTF-8, no BOM)
+
+944
+01:18:35,000 --> 01:18:39,600
+QA EN #0944 - 01:18:35
+English test cue (UTF-8, no BOM)
+
+945
+01:18:40,000 --> 01:18:44,600
+QA EN #0945 - 01:18:40
+English test cue (UTF-8, no BOM)
+
+946
+01:18:45,000 --> 01:18:49,600
+QA EN #0946 - 01:18:45
+English test cue (UTF-8, no BOM)
+
+947
+01:18:50,000 --> 01:18:54,600
+QA EN #0947 - 01:18:50
+English test cue (UTF-8, no BOM)
+
+948
+01:18:55,000 --> 01:18:59,600
+QA EN #0948 - 01:18:55
+English test cue (UTF-8, no BOM)
+
+949
+01:19:00,000 --> 01:19:04,600
+QA EN #0949 - 01:19:00
+English test cue (UTF-8, no BOM)
+
+950
+01:19:05,000 --> 01:19:09,600
+QA EN #0950 - 01:19:05
+English test cue (UTF-8, no BOM)
+
+951
+01:19:10,000 --> 01:19:14,600
+QA EN #0951 - 01:19:10
+English test cue (UTF-8, no BOM)
+
+952
+01:19:15,000 --> 01:19:19,600
+QA EN #0952 - 01:19:15
+English test cue (UTF-8, no BOM)
+
+953
+01:19:20,000 --> 01:19:24,600
+QA EN #0953 - 01:19:20
+English test cue (UTF-8, no BOM)
+
+954
+01:19:25,000 --> 01:19:29,600
+QA EN #0954 - 01:19:25
+English test cue (UTF-8, no BOM)
+
+955
+01:19:30,000 --> 01:19:34,600
+QA EN #0955 - 01:19:30
+English test cue (UTF-8, no BOM)
+
+956
+01:19:35,000 --> 01:19:39,600
+QA EN #0956 - 01:19:35
+English test cue (UTF-8, no BOM)
+
+957
+01:19:40,000 --> 01:19:44,600
+QA EN #0957 - 01:19:40
+English test cue (UTF-8, no BOM)
+
+958
+01:19:45,000 --> 01:19:49,600
+QA EN #0958 - 01:19:45
+English test cue (UTF-8, no BOM)
+
+959
+01:19:50,000 --> 01:19:54,600
+QA EN #0959 - 01:19:50
+English test cue (UTF-8, no BOM)
+
+960
+01:19:55,000 --> 01:19:59,600
+QA EN #0960 - 01:19:55
+English test cue (UTF-8, no BOM)

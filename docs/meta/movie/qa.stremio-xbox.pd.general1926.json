@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "qa.stremio-xbox.pd.general1926",
+    "type": "movie",
+    "name": "The General (1926) · QA 4:3",
+    "poster": "https://archive.org/download/TheGeneral1926/__ia_thumb.jpg",
+    "background": "https://archive.org/download/TheGeneral1926/__ia_thumb.jpg",
+    "description": "Buster Keaton and Clyde Bruckman, 1926. Public domain: archive.org item TheGeneral1926 (Public Domain Mark 1.0); a 1926 US publication. Xbox QA: 960x720 (4:3) direct MP4 with addon subtitles for the Y Fit / Crop / Stretch check.",
+    "releaseInfo": "1926",
+    "runtime": "79 min",
+    "genres": [
+      "QA"
+    ]
+  }
+}

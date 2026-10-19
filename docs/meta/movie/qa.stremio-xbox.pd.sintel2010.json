@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "id": "qa.stremio-xbox.pd.sintel2010",
+    "type": "movie",
+    "name": "Sintel (2010) · QA torrent",
+    "poster": "https://webtorrent.io/torrents/Sintel/poster.jpg",
+    "background": "https://webtorrent.io/torrents/Sintel/poster.jpg",
+    "description": "Sintel © copyright Blender Foundation | durian.blender.org, CC BY 3.0. WebTorrent's Sintel torrent (Sintel.mp4). Xbox QA: the addon subtitles below are menu candidates that load on demand, so LB walks subtitles that are not loaded yet.",
+    "releaseInfo": "2010",
+    "runtime": "15 min",
+    "genres": [
+      "QA"
+    ]
+  }
+}

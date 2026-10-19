@@ -1,0 +1,22 @@
+{
+  "streams": [
+    {
+      "name": "QA torrent",
+      "title": "Sintel (2010) · CC BY 3.0 · torrent, Sintel.mp4",
+      "infoHash": "08ada5a7a6183aae1e09d831df6748d566095a10",
+      "fileIdx": 5,
+      "sources": [
+        "tracker:udp://tracker.opentrackr.org:1337/announce",
+        "tracker:udp://explodie.org:6969/announce",
+        "tracker:udp://open.stealth.si:80/announce",
+        "tracker:udp://tracker.torrent.eu.org:451/announce",
+        "tracker:udp://open.demonii.com:1337/announce",
+        "dht:08ada5a7a6183aae1e09d831df6748d566095a10"
+      ],
+      "behaviorHints": {
+        "filename": "Sintel.mp4",
+        "videoSize": 129241752
+      }
+    }
+  ]
+}

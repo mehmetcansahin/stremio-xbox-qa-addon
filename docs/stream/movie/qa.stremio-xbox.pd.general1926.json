@@ -1,0 +1,13 @@
+{
+  "streams": [
+    {
+      "name": "QA direct",
+      "title": "The General (1926) · archive.org 720p MP4 · 4:3",
+      "url": "https://archive.org/download/TheGeneral1926/The_General_1926_720p.mp4",
+      "behaviorHints": {
+        "filename": "The_General_1926_720p.mp4",
+        "videoSize": 1003361613
+      }
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "qa.stremio-xbox.pd",
+  "version": "1.0.0",
+  "name": "Xbox QA (public domain)",
+  "description": "Temporary QA addon for the Stremio Xbox app: a 4:3 public-domain film and a CC BY torrent with self-written test subtitles (Turkish with and without BOM, English). Not for general use.",
+  "types": [
+    "movie"
+  ],
+  "idPrefixes": [
+    "qa.stremio-xbox.pd."
+  ],
+  "resources": [
+    "catalog",
+    "meta",
+    "stream",
+    "subtitles"
+  ],
+  "catalogs": [
+    {
+      "type": "movie",
+      "id": "qa-pd",
+      "name": "Xbox QA"
+    }
+  ],
+  "behaviorHints": {
+    "configurable": false,
+    "configurationRequired": false
+  }
+}
