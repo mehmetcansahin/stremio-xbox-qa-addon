@@ -1,0 +1,22 @@
+{
+  "subtitles": [
+    {
+      "id": "qa-tr-bom",
+      "lang": "tur",
+      "label": "QA Türkçe (UTF-8 BOM)",
+      "url": "https://mehmetcansahin.github.io/stremio-xbox-qa-addon/subs/qa-tr-bom.srt"
+    },
+    {
+      "id": "qa-tr-nobom",
+      "lang": "tur",
+      "label": "QA Türkçe (UTF-8, BOM yok)",
+      "url": "https://mehmetcansahin.github.io/stremio-xbox-qa-addon/subs/qa-tr-nobom.srt"
+    },
+    {
+      "id": "qa-en",
+      "lang": "eng",
+      "label": "QA English (UTF-8, no BOM)",
+      "url": "https://mehmetcansahin.github.io/stremio-xbox-qa-addon/subs/qa-en.srt"
+    }
+  ]
+}

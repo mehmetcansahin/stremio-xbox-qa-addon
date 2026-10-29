@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "QA direct",
+      "title": "Caminandes S1E3 · Llamigos · archive.org 1080p MP4",
+      "url": "https://archive.org/download/CaminandesLlamigos/Caminandes_%20Llamigos-1080p.mp4",
+      "behaviorHints": {
+        "bingeGroup": "qa.stremio-xbox.pd|caminandes|archive.org-1080p-mp4",
+        "filename": "Caminandes_ Llamigos-1080p.mp4",
+        "videoSize": 138945811
+      }
+    }
+  ]
+}

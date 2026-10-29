@@ -1,10 +1,11 @@
 {
   "id": "qa.stremio-xbox.pd",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "name": "Xbox QA (public domain)",
-  "description": "Temporary QA addon for the Stremio Xbox app: a 4:3 public-domain film and a CC BY torrent with self-written test subtitles (Turkish with and without BOM, English). Not for general use.",
+  "description": "Temporary QA addon for the Stremio Xbox app: a 4:3 public-domain film and a CC BY torrent with self-written test subtitles (Turkish with and without BOM, English), plus the CC-licensed Caminandes short series for the next-episode checks. Not for general use.",
   "types": [
-    "movie"
+    "movie",
+    "series"
   ],
   "idPrefixes": [
     "qa.stremio-xbox.pd."
@@ -19,6 +20,11 @@
     {
       "type": "movie",
       "id": "qa-pd",
+      "name": "Xbox QA"
+    },
+    {
+      "type": "series",
+      "id": "qa-pd-series",
       "name": "Xbox QA"
     }
   ],

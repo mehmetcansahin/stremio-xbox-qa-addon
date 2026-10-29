@@ -1,0 +1,17 @@
+{
+  "metas": [
+    {
+      "id": "qa.stremio-xbox.pd.caminandes",
+      "type": "series",
+      "name": "Caminandes · QA next episode",
+      "poster": "https://archive.org/download/CaminandesLlamigos/__ia_thumb.jpg",
+      "background": "https://archive.org/download/CaminandesLlamigos/__ia_thumb.jpg",
+      "description": "Caminandes, the Blender short series about Koro the llama (Pablo Vazquez, Beorn Leonard, Francesco Siddi; music Jan Morgenstern; Blender Foundation, caminandes.com). Episodes 1 and 3 CC BY 3.0, episode 2 CC BY-SA 3.0. Xbox QA: three short episodes with one direct MP4 source each and one bingeGroup, for the next-episode popup and autoplay.",
+      "releaseInfo": "2013-2016",
+      "runtime": "2 min",
+      "genres": [
+        "QA"
+      ]
+    }
+  ]
+}

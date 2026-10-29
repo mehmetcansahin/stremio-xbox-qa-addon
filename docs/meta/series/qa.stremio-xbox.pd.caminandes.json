@@ -1,0 +1,44 @@
+{
+  "meta": {
+    "id": "qa.stremio-xbox.pd.caminandes",
+    "type": "series",
+    "name": "Caminandes · QA next episode",
+    "poster": "https://archive.org/download/CaminandesLlamigos/__ia_thumb.jpg",
+    "background": "https://archive.org/download/CaminandesLlamigos/__ia_thumb.jpg",
+    "description": "Caminandes, the Blender short series about Koro the llama (Pablo Vazquez, Beorn Leonard, Francesco Siddi; music Jan Morgenstern; Blender Foundation, caminandes.com). Episodes 1 and 3 CC BY 3.0, episode 2 CC BY-SA 3.0. Xbox QA: three short episodes with one direct MP4 source each and one bingeGroup, for the next-episode popup and autoplay.",
+    "releaseInfo": "2013-2016",
+    "runtime": "2 min",
+    "genres": [
+      "QA"
+    ],
+    "videos": [
+      {
+        "id": "qa.stremio-xbox.pd.caminandes.s1e1",
+        "title": "Llama Drama",
+        "season": 1,
+        "episode": 1,
+        "released": "2013-02-09T00:00:00.000Z",
+        "thumbnail": "https://archive.org/download/Caminandes1LlamaDrama/__ia_thumb.jpg",
+        "overview": "Caminandes episode 1 (2013). 1:30, CC BY 3.0."
+      },
+      {
+        "id": "qa.stremio-xbox.pd.caminandes.s1e2",
+        "title": "Gran Dillama",
+        "season": 1,
+        "episode": 2,
+        "released": "2013-11-22T00:00:00.000Z",
+        "thumbnail": "https://archive.org/download/Caminandes2GranDillama/__ia_thumb.jpg",
+        "overview": "Caminandes episode 2 (2013). 2:26, CC BY-SA 3.0."
+      },
+      {
+        "id": "qa.stremio-xbox.pd.caminandes.s1e3",
+        "title": "Llamigos",
+        "season": 1,
+        "episode": 3,
+        "released": "2016-01-29T00:00:00.000Z",
+        "thumbnail": "https://archive.org/download/CaminandesLlamigos/__ia_thumb.jpg",
+        "overview": "Caminandes episode 3 (2016). 2:30, CC BY 3.0."
+      }
+    ]
+  }
+}

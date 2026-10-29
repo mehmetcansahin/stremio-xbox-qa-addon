@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "QA direct",
+      "title": "Caminandes S1E1 · Llama Drama · archive.org 1080p MP4",
+      "url": "https://archive.org/download/Caminandes1LlamaDrama/01_llama_drama_1080p.mp4",
+      "behaviorHints": {
+        "bingeGroup": "qa.stremio-xbox.pd|caminandes|archive.org-1080p-mp4",
+        "filename": "01_llama_drama_1080p.mp4",
+        "videoSize": 35103580
+      }
+    }
+  ]
+}

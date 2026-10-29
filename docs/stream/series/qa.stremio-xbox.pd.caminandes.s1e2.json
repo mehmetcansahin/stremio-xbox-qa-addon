@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "name": "QA direct",
+      "title": "Caminandes S1E2 · Gran Dillama · archive.org 1080p MP4",
+      "url": "https://archive.org/download/Caminandes2GranDillama/02_gran_dillama_1080p.mp4",
+      "behaviorHints": {
+        "bingeGroup": "qa.stremio-xbox.pd|caminandes|archive.org-1080p-mp4",
+        "filename": "02_gran_dillama_1080p.mp4",
+        "videoSize": 125974946
+      }
+    }
+  ]
+}

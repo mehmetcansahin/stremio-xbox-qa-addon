@@ -16,8 +16,9 @@ import shutil
 ADDON_ID = "qa.stremio-xbox.pd"
 ID_PREFIX = ADDON_ID + "."
 CATALOG_ID = "qa-pd"
+SERIES_CATALOG_ID = "qa-pd-series"
 
-# 80 minutes covers The General (78:52) and Sintel (14:48).
+# 80 minutes covers The General (78:52), Sintel (14:48) and Caminandes (2:30).
 CUE_SPAN_SECONDS = 80 * 60
 CUE_STEP_SECONDS = 5
 CUE_LENGTH_MS = 4600
@@ -80,6 +81,75 @@ SINTEL_STREAM = {
     },
 }
 
+# Caminandes, the Blender short series: three episodes of 1:30-2:30, each a
+# direct 1080p H.264/AAC MP4 on archive.org. Video ids have no ':' because
+# the app escapes it (%3A) and Pages would need a file named with ':', which
+# a Windows checkout cannot hold. All episodes share one bingeGroup, so
+# StremioAutoPlayStreamSelector picks the next episode's source.
+CAMINANDES = {
+    "id": ID_PREFIX + "caminandes",
+    "name": "Caminandes · QA next episode",
+    "releaseInfo": "2013-2016",
+    "runtime": "2 min",
+    "poster": "https://archive.org/download/CaminandesLlamigos/__ia_thumb.jpg",
+    "description": (
+        "Caminandes, the Blender short series about Koro the llama "
+        "(Pablo Vazquez, Beorn Leonard, Francesco Siddi; music Jan "
+        "Morgenstern; Blender Foundation, caminandes.com). Episodes 1 and 3 "
+        "CC BY 3.0, episode 2 CC BY-SA 3.0. Xbox QA: three short episodes "
+        "with one direct MP4 source each and one bingeGroup, for the "
+        "next-episode popup and autoplay."
+    ),
+}
+CAMINANDES_BINGE_GROUP = ADDON_ID + "|caminandes|archive.org-1080p-mp4"
+
+# (episode, title, released, archive.org item, file name, size, overview)
+CAMINANDES_EPISODES = [
+    (1, "Llama Drama", "2013-02-09T00:00:00.000Z", "Caminandes1LlamaDrama",
+     "01_llama_drama_1080p.mp4", 35103580,
+     "Caminandes episode 1 (2013). 1:30, CC BY 3.0."),
+    (2, "Gran Dillama", "2013-11-22T00:00:00.000Z", "Caminandes2GranDillama",
+     "02_gran_dillama_1080p.mp4", 125974946,
+     "Caminandes episode 2 (2013). 2:26, CC BY-SA 3.0."),
+    (3, "Llamigos", "2016-01-29T00:00:00.000Z", "CaminandesLlamigos",
+     "Caminandes_ Llamigos-1080p.mp4", 138945811,
+     "Caminandes episode 3 (2016). 2:30, CC BY 3.0."),
+]
+
+
+def caminandes_video_id(episode):
+    return f"{CAMINANDES['id']}.s1e{episode}"
+
+
+def caminandes_videos():
+    return [
+        {
+            "id": caminandes_video_id(episode),
+            "title": title,
+            "season": 1,
+            "episode": episode,
+            "released": released,
+            "thumbnail": f"https://archive.org/download/{item}/__ia_thumb.jpg",
+            "overview": overview,
+        }
+        for episode, title, released, item, _, _, overview in CAMINANDES_EPISODES
+    ]
+
+
+def caminandes_stream(episode, title, item, file, size):
+    return {
+        "name": "QA direct",
+        "title": f"Caminandes S1E{episode} · {title} · archive.org 1080p MP4",
+        "url": (f"https://archive.org/download/{item}/"
+                + file.replace(" ", "%20")),
+        "behaviorHints": {
+            "bingeGroup": CAMINANDES_BINGE_GROUP,
+            "filename": file,
+            "videoSize": size,
+        },
+    }
+
+
 # (file, BOM, language, label, first line, second line)
 SUBTITLE_FILES = [
     ("qa-tr-bom.srt", True, "tur", "QA Türkçe (UTF-8 BOM)",
@@ -141,10 +211,10 @@ def subtitle_entries(base, include_missing):
     return {"subtitles": entries}
 
 
-def meta(title):
+def meta(title, kind="movie"):
     return {
         "id": title["id"],
-        "type": "movie",
+        "type": kind,
         "name": title["name"],
         "poster": title["poster"],
         "background": title["poster"],
@@ -157,9 +227,16 @@ def meta(title):
 
 def subtitle_extras_path(stream):
     # AddonSubtitlePlayback.CreateRequestExtras order: videoHash, videoSize,
-    # filename. Neither stream has a videoHash.
+    # filename. No stream has a videoHash. Pages decodes the request path,
+    # so a space in the file name (%20 in the request) stays a space here.
     hints = stream["behaviorHints"]
     return f"videoSize={hints['videoSize']}&filename={hints['filename']}"
+
+
+def write_subtitles(out, kind, video_id, stream, subtitles):
+    write_json(out / "subtitles" / kind / f"{video_id}.json", subtitles)
+    write_json(out / "subtitles" / kind / video_id /
+               f"{subtitle_extras_path(stream)}.json", subtitles)
 
 
 def build(base, out):
@@ -171,16 +248,21 @@ def build(base, out):
 
     write_json(out / "manifest.json", {
         "id": ADDON_ID,
-        "version": "1.0.0",
+        "version": "1.1.0",
         "name": "Xbox QA (public domain)",
         "description": (
             "Temporary QA addon for the Stremio Xbox app: a 4:3 public-domain "
             "film and a CC BY torrent with self-written test subtitles "
-            "(Turkish with and without BOM, English). Not for general use."),
-        "types": ["movie"],
+            "(Turkish with and without BOM, English), plus the CC-licensed "
+            "Caminandes short series for the next-episode checks. Not for "
+            "general use."),
+        "types": ["movie", "series"],
         "idPrefixes": [ID_PREFIX],
         "resources": ["catalog", "meta", "stream", "subtitles"],
-        "catalogs": [{"type": "movie", "id": CATALOG_ID, "name": "Xbox QA"}],
+        "catalogs": [
+            {"type": "movie", "id": CATALOG_ID, "name": "Xbox QA"},
+            {"type": "series", "id": SERIES_CATALOG_ID, "name": "Xbox QA"},
+        ],
         "behaviorHints": {"configurable": False, "configurationRequired": False},
     })
 
@@ -194,10 +276,21 @@ def build(base, out):
                    {"meta": meta(title)})
         write_json(out / "stream" / "movie" / f"{title['id']}.json",
                    {"streams": [stream]})
-        subtitles = subtitle_entries(base, include_missing)
-        write_json(out / "subtitles" / "movie" / f"{title['id']}.json", subtitles)
-        write_json(out / "subtitles" / "movie" / title["id"] /
-                   f"{subtitle_extras_path(stream)}.json", subtitles)
+        write_subtitles(out, "movie", title["id"], stream,
+                        subtitle_entries(base, include_missing))
+
+    write_json(out / "catalog" / "series" / f"{SERIES_CATALOG_ID}.json",
+               {"metas": [meta(CAMINANDES, "series")]})
+    write_json(out / "meta" / "series" / f"{CAMINANDES['id']}.json",
+               {"meta": {**meta(CAMINANDES, "series"),
+                         "videos": caminandes_videos()}})
+    for episode, title, _, item, file, size, _ in CAMINANDES_EPISODES:
+        video_id = caminandes_video_id(episode)
+        stream = caminandes_stream(episode, title, item, file, size)
+        write_json(out / "stream" / "series" / f"{video_id}.json",
+                   {"streams": [stream]})
+        write_subtitles(out, "series", video_id, stream,
+                        subtitle_entries(base, include_missing=False))
 
     subs = out / "subs"
     subs.mkdir()
